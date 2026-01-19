@@ -1,0 +1,1046 @@
+state,district,cluster,total_enrollment_mean,mom_growth_rate_std
+Bihar,Rohtas,0,1918.25,34.034
+Karnataka,Belagavi,0,1909.5,32.323
+Uttar Pradesh,Balrampur,0,1735.0,76.219
+Bihar,Buxar,0,1730.0,15.8
+Uttar Pradesh,Pilibhit,0,1677.875,62.597
+Karnataka,Bagalkot,0,1638.5,32.289
+Uttar Pradesh,Shamli,0,1607.6,149.44
+Karnataka,Dakshina Kannada,0,1578.75,20.665
+Uttar Pradesh,Kushi Nagar,0,1570.0,0.0
+Uttar Pradesh,Sant Kabir Nagar,0,1491.75,27.351
+Jharkhand,East Singhbum,0,1447.0,0.0
+Bihar,Jamui,0,1442.571,86.643
+Gujarat,Bhavnagar,0,1428.143,309.883
+Rajasthan,Karauli,0,1419.167,102.494
+Uttar Pradesh,Jhansi,0,1401.0,637.835
+Rajasthan,Dholpur,0,1390.667,137.217
+Madhya Pradesh,Betul,0,1347.0,142.846
+Rajasthan,Ganganagar,0,1339.5,50.494
+Uttar Pradesh,Amroha,0,1335.0,118.579
+Delhi,East Delhi,0,1330.0,49.087
+Karnataka,Koppal,0,1329.25,45.893
+Rajasthan,Sawai Madhopur,0,1328.6,91.765
+Assam,Karbi Anglong,0,1327.833,38.854
+Uttar Pradesh,Chitrakoot,0,1321.5,20.434
+Uttar Pradesh,Kanpur Dehat,0,1318.667,64.006
+Maharashtra,Palghar,0,1317.375,72.994
+West Bengal,Jalpaiguri,0,1316.375,164.882
+Meghalaya,West Jaintia Hills,0,1305.667,167.558
+Uttar Pradesh,Kannauj,0,1304.4,70.406
+Rajasthan,Sirohi,0,1303.125,152.204
+Rajasthan,Dungarpur,0,1286.0,725.758
+Madhya Pradesh,Sehore,0,1283.0,54.343
+West Bengal,Dakshin Dinajpur,0,1283.0,506.024
+West Bengal,Kolkata,0,1275.625,295.446
+Uttar Pradesh,Shravasti,0,1267.5,49.476
+Maharashtra,Beed,0,1263.375,68.609
+Maharashtra,Yavatmal,0,1245.0,102.223
+Uttar Pradesh,Kasganj,0,1245.0,51.618
+Uttar Pradesh,Sonbhadra,0,1230.0,58.781
+Karnataka,Yadgir,0,1228.2,90.239
+Uttar Pradesh,Kaushambi,0,1224.0,135.353
+Assam,Goalpara,0,1214.25,1256.989
+Madhya Pradesh,Burhanpur,0,1211.125,52.909
+Uttar Pradesh,Hapur,0,1197.5,34.686
+Karnataka,Davangere,0,1180.5,49.05
+Rajasthan,Chittorgarh,0,1177.6,65.347
+Uttar Pradesh,Chandauli,0,1175.5,99.666
+Kerala,Kannur,0,1175.0,995.923
+Uttar Pradesh,Etawah,0,1172.0,65.77
+Maharashtra,Buldhana,0,1163.5,126.318
+Uttar Pradesh,Banda,0,1162.0,390.12
+Uttar Pradesh,Farrukhabad,0,1152.6,422.487
+Rajasthan,Tonk,0,1148.6,83.266
+Assam,Marigaon,0,1142.444,92.643
+Maharashtra,Amravati,0,1136.0,102.793
+Delhi,South West Delhi,0,1128.125,98.218
+Gujarat,Surendra Nagar,0,1116.167,196.5
+Jharkhand,Gumla,0,1108.667,99.456
+Haryana,Gurgaon,0,1108.5,78.491
+Karnataka,Vijayapura,0,1103.0,180.314
+Rajasthan,Rajsamand,0,1095.25,56.71
+Kerala,Thiruvananthapuram,0,1089.5,331.83
+Uttar Pradesh,Sant Ravidas Nagar,0,1079.0,32.461
+Gujarat,Junagadh,0,1078.8,269.824
+Karnataka,Chitradurga,0,1073.5,32.234
+Uttar Pradesh,Hathras,0,1069.667,129.125
+Maharashtra,Latur,0,1066.0,85.852
+Maharashtra,Sangli,0,1059.286,134.884
+Gujarat,Kheda,0,1052.286,178.995
+Jharkhand,Chatra,0,1046.5,112.185
+Kerala,Ernakulam,0,1037.333,263.368
+Gujarat,Valsad,0,1035.857,93.925
+Meghalaya,Ri Bhoi,0,1029.444,1131.425
+Madhya Pradesh,Narsinghpur,0,1025.6,142.286
+Rajasthan,Baran,0,1025.0,178.372
+Assam,Tinsukia,0,1024.25,131.639
+Gujarat,Panchmahals,0,1021.167,142.182
+Madhya Pradesh,Sheopur,0,1020.429,78.379
+Maharashtra,Hingoli,0,1017.875,290.763
+Karnataka,Kolar,0,1012.75,54.093
+Gujarat,Kachchh,0,1009.0,639.938
+Punjab,Jalandhar,0,1008.5,30.34
+Bihar,Lakhisarai,0,1005.167,72.932
+Kerala,Kollam,0,997.6,1088.877
+West Bengal,Dinajpur Dakshin,0,997.0,0.0
+Assam,Sonitpur,0,991.556,142.578
+Gujarat,Patan,0,985.111,357.1
+Jharkhand,Pakur,0,978.714,59.177
+Karnataka,Haveri,0,975.75,29.416
+Madhya Pradesh,Datia,0,968.167,108.121
+Rajasthan,Hanumangarh,0,966.4,74.391
+Karnataka,Bidar,0,963.4,386.784
+Uttar Pradesh,Baghpat,0,963.0,182.89
+Telangana,Khammam,0,954.75,43.01
+Bihar,Kaimur (Bhabua),0,952.75,94.852
+Karnataka,Kalaburagi,0,946.8,63.161
+Uttar Pradesh,Lalitpur,0,935.6,298.577
+Assam,Darrang,0,930.125,224.45
+Rajasthan,Pratapgarh,0,930.0,38.861
+Uttar Pradesh,Auraiya,0,915.0,55.951
+Uttar Pradesh,Jalaun,0,913.333,107.34
+West Bengal,Darjeeling,0,904.625,51.574
+Gujarat,Mahesana,0,901.857,180.275
+Assam,Hailakandi,0,899.833,67.487
+Karnataka,Udupi,0,890.5,21.929
+Karnataka,Mandya,0,886.25,22.183
+Gujarat,Morbi,0,883.333,517.63
+Maharashtra,Parbhani,0,879.857,126.986
+Haryana,Gurugram,0,878.667,860.257
+Kerala,Kasaragod,0,877.75,28.977
+Kerala,Alappuzha,0,869.75,25.372
+Assam,Hojai,0,867.5,433.236
+Madhya Pradesh,Alirajpur,0,864.0,246.319
+Madhya Pradesh,Ashok Nagar,0,858.333,367.594
+Gujarat,Jamnagar,0,852.429,56.311
+Karnataka,Uttara Kannada,0,846.25,37.436
+Bihar,Munger,0,845.143,61.249
+Gujarat,Anand,0,843.375,143.438
+Uttar Pradesh,Hamirpur,0,843.0,140.794
+Uttar Pradesh,Shrawasti,0,839.667,61.586
+Gujarat,Sabarkantha,0,834.667,500.039
+Jharkhand,Seraikela-Kharsawan,0,822.5,35.299
+West Bengal,Koch Bihar,0,815.75,29.13
+Gujarat,Gir Somnath,0,810.286,175.028
+Kerala,Kottayam,0,809.5,16.902
+Jharkhand,Dumka,0,808.714,324.066
+Telangana,Medchal-malkajgiri,0,802.2,423.012
+Rajasthan,Bundi,0,800.0,275.155
+Madhya Pradesh,Anuppur,0,795.25,54.289
+Assam,Lakhimpur,0,787.111,204.932
+Bihar,Jehanabad,0,785.0,173.575
+Andhra Pradesh,Ananthapuramu,0,773.5,25.637
+Karnataka,Chikkaballapur,0,765.75,21.556
+Assam,Dibrugarh,0,765.111,446.029
+Bihar,Sheikhpura,0,761.5,17.749
+Madhya Pradesh,East Nimar,0,759.2,87.458
+Bihar,Sheohar,0,757.5,24.596
+Assam,Dhemaji,0,755.889,260.252
+Meghalaya,East Garo Hills,0,755.125,40.205
+Chhattisgarh,Bijapur,0,735.111,114.969
+Karnataka,Tumakuru,0,734.5,22.305
+Uttar Pradesh,Mahoba,0,734.5,51.44
+Assam,Kamrup Metro,0,734.375,94.284
+Maharashtra,Satara,0,733.125,78.346
+Odisha,Angul,0,733.0,41.061
+Karnataka,Ramanagar,0,728.25,35.232
+Andhra Pradesh,Spsr Nellore,0,727.667,627.09
+Punjab,Gurdaspur,0,727.0,144.51
+Maharashtra,Mumbai City,0,722.0,53.417
+Jharkhand,Ramgarh,0,719.75,37.955
+Karnataka,Mysuru,0,716.833,43.23
+Delhi,North Delhi,0,715.667,45.968
+Gujarat,Bharuch,0,703.667,106.035
+Karnataka,Bengaluru Rural,0,697.5,61.536
+Maharashtra,Gondiya,0,696.75,44.388
+Gujarat,Amreli,0,695.5,111.257
+Karnataka,Ballari,0,680.0,38.204
+Gujarat,Gandhinagar,0,679.5,90.277
+Haryana,Rohtak,0,669.4,43.002
+Chhattisgarh,Bemetara,0,669.25,48.912
+Punjab,Bathinda,0,664.25,39.511
+Telangana,Sangareddy,0,657.5,22.942
+Chhattisgarh,Durg,0,652.167,74.617
+Jharkhand,Latehar,0,643.75,104.37
+Haryana,Jhajjar,0,643.0,20.389
+Uttarakhand,Nainital,0,641.167,288.577
+Meghalaya,East Jaintia Hills,0,638.625,50.829
+Madhya Pradesh,Khandwa,0,637.286,371.805
+Assam,Udalguri,0,634.286,441.079
+Haryana,Fatehabad,0,633.0,18.427
+Maharashtra,Chandrapur,0,631.714,94.791
+Madhya Pradesh,Agar Malwa,0,631.5,109.109
+Maharashtra,Ratnagiri,0,628.0,27.869
+Telangana,Bhadradri Kothagudem,0,626.2,31.262
+Bihar,Arwal,0,624.833,74.834
+Haryana,Ambala,0,623.0,80.781
+Assam,Nalbari,0,622.667,192.353
+Meghalaya,South West Garo Hills,0,616.75,37.327
+Karnataka,Hassan,0,614.25,30.856
+Odisha,JAJPUR,0,607.5,39.857
+West Bengal,Purba Bardhaman,0,597.6,792.28
+Assam,Jorhat,0,593.0,839.731
+Haryana,Rewari,0,591.0,32.515
+Maharashtra,Gadchiroli,0,585.25,55.312
+Tamil Nadu,Ariyalur,0,584.0,44.236
+Odisha,Nayagarh,0,581.0,871.902
+Punjab,Tarn Taran,0,581.0,84.383
+Punjab,SAS Nagar (Mohali),0,579.4,128.003
+Maharashtra,Raigad,0,563.333,113.124
+Rajasthan,Jaisalmer,0,560.4,383.522
+Meghalaya,South Garo Hills,0,553.25,48.43
+Karnataka,Shivamogga,0,549.25,27.526
+Karnataka,Chamrajanagar,0,545.5,37.48
+Maharashtra,Washim,0,542.167,50.267
+West Bengal,West Midnapore,0,537.5,31.881
+Karnataka,Vijayanagara,0,522.25,29.313
+Karnataka,Bangalore Rural,0,521.0,79.652
+West Bengal,East Midnapore,0,517.25,36.621
+Punjab,Hoshiarpur,0,510.75,68.844
+Gujarat,Chhotaudepur,0,508.25,442.606
+Assam,Kokrajhar,0,502.222,48.686
+Jharkhand,Simdega,0,497.25,36.314
+Telangana,Kamareddy,0,495.75,28.883
+Telangana,Suryapet,0,495.75,24.004
+Chhattisgarh,Gaurella Pendra Marwahi,0,491.5,31.268
+Odisha,Gajapati,0,490.0,5085.043
+West Bengal,24 Paraganas South,0,490.0,0.0
+Delhi,Central Delhi,0,487.0,184.87
+Gujarat,Sabar Kantha,0,486.4,101.385
+Tamil Nadu,Kanyakumari,0,486.0,30.496
+Kerala,Pathanamthitta,0,479.0,17.304
+Jharkhand,Lohardaga,0,474.833,48.649
+Uttar Pradesh,Prayagraj,0,474.0,468.624
+Maharashtra,Wardha,0,472.0,47.217
+Uttar Pradesh,Barabanki,0,471.8,46.715
+Punjab,Fazilka,0,471.25,36.067
+Assam,Chirang,0,469.429,347.926
+Maharashtra,Bhandara,0,465.5,57.952
+Punjab,Kapurthala,0,460.125,54.224
+Telangana,Siddipet,0,458.5,24.293
+Andhra Pradesh,Rangareddi,0,458.25,23.892
+West Bengal,Alipurduar,0,457.125,100.671
+Punjab,Sangrur,0,455.0,214.101
+Uttarakhand,Pauri Garhwal,0,452.25,13.935
+Assam,Sibsagar,0,445.667,75.627
+Odisha,Nabarangpur,0,442.0,0.0
+Telangana,Jogulamba Gadwal,0,441.25,24.25
+West Bengal,Bardhaman,0,436.25,41.066
+Meghalaya,North Garo Hills,0,436.143,59.28
+Gujarat,Dang,0,436.0,27.973
+Gujarat,Tapi,0,435.4,463.212
+Jharkhand,Khunti,0,430.5,54.584
+Madhya Pradesh,Harda,0,430.0,41.188
+West Bengal,Maldah,0,429.75,28.815
+Meghalaya,South West Khasi Hills,0,429.625,70.132
+Delhi,North East,0,424.25,33.551
+Chhattisgarh,Koriya,0,421.0,15.475
+Andhra Pradesh,Tirupati,0,420.75,84.952
+Kerala,Idukki,0,417.0,26.91
+Tamil Nadu,The Nilgiris,0,416.5,38.669
+Gujarat,Botad,0,415.714,137.999
+Jammu And Kashmir,Reasi,0,414.5,39.557
+Jammu And Kashmir,Shopian,0,412.0,0.0
+Telangana,Wanaparthy,0,408.25,29.687
+Chhattisgarh,Kanker,0,408.0,35.313
+Himachal Pradesh,Shimla,0,406.25,29.287
+Jammu And Kashmir,Bandipore,0,400.25,12.149
+West Bengal,North Twenty Four Parganas,0,399.25,33.398
+Chhattisgarh,Balod,0,399.0,35.361
+Assam,Baksa,0,398.222,907.506
+Nagaland,Dimapur,0,397.75,56.561
+Andhra Pradesh,Sri Potti Sriramulu Nellore,0,390.5,49.039
+Telangana,Jagitial,0,388.25,15.863
+Gujarat,Navsari,0,386.571,115.805
+Telangana,Yadadri.,0,385.0,33.507
+Gujarat,Arvalli,0,383.5,94.859
+Himachal Pradesh,Sirmaur,0,381.5,44.449
+Kerala,Wayanad,0,377.75,55.737
+Punjab,Moga,0,376.0,49.364
+Chhattisgarh,Gariyaband,0,371.5,45.415
+Maharashtra,Ahmednagar,0,368.0,0.0
+Andhra Pradesh,Mahabub Nagar,0,367.75,31.594
+Nagaland,Mon,0,366.833,211.598
+Manipur,Senapati,0,365.75,24.482
+Telangana,Mahabubabad,0,362.5,29.528
+Odisha,Sonapur,0,361.5,2992.966
+Gujarat,Mahisagar,0,358.0,104.187
+Gujarat,Porbandar,0,355.429,64.532
+Punjab,S.A.S Nagar,0,352.5,35.355
+Telangana,Medchal Malkajgiri,0,352.0,25.626
+Gujarat,Devbhumi Dwarka,0,351.0,76.185
+Andhra Pradesh,Adilabad,0,348.75,38.071
+Odisha,Boudh,0,347.0,22.11
+Assam,Bongaigaon,0,344.778,175.883
+Andhra Pradesh,Medak,0,344.0,43.861
+Telangana,Nirmal,0,342.25,39.376
+Punjab,Ferozepur,0,338.75,42.247
+Uttarakhand,Almora,0,336.0,33.211
+Telangana,Nagarkurnool,0,334.75,32.13
+Haryana,Panchkula,0,333.75,35.155
+Punjab,Sri Muktsar Sahib,0,326.5,71.976
+Telangana,Narayanpet,0,323.5,20.203
+West Bengal,Medinipur West,0,322.5,232.419
+West Bengal,Paschim Bardhaman,0,316.5,39.046
+Jammu And Kashmir,Kishtwar,0,310.0,21.484
+Gujarat,Narmada,0,309.0,69.795
+Chhattisgarh,Sukma,0,307.429,38.34
+Punjab,Rupnagar,0,307.0,22560.098
+Tamil Nadu,Tenkasi,0,306.0,47.464
+Andhra Pradesh,Alluri Sitharama Raju,0,303.5,22.121
+Uttarakhand,Pithoragarh,0,301.0,26.568
+Karnataka,Chickmagalur,0,299.25,29.378
+Karnataka,Kodagu,0,298.75,14.815
+Madhya Pradesh,Narsimhapur,0,295.5,76.079
+Chhattisgarh,Dakshin Bastar Dantewada,0,293.0,208.452
+Tripura,North Tripura,0,292.4,74.411
+Maharashtra,Sindhudurg,0,290.75,60.851
+Jammu And Kashmir,Kulgam,0,288.5,14.95
+Gujarat,Surendranagar,0,288.2,90.429
+Assam,South Salmara Mankachar,0,287.4,45.958
+Himachal Pradesh,Solan,0,285.25,35.592
+Andhra Pradesh,Nalgonda,0,284.25,44.495
+Telangana,Ranga Reddy,0,284.0,0.0
+Tripura,Dhalai,0,284.0,99.104
+Karnataka,Chikkamagaluru,0,281.5,39.863
+Odisha,Jharsuguda,0,281.5,1562.275
+Uttar Pradesh,Ayodhya,0,280.0,269.302
+Gujarat,Panch Mahals,0,279.8,155.432
+Andhra Pradesh,Khammam,0,276.5,40.999
+Uttarakhand,Uttarkashi,0,276.5,41.445
+Manipur,Imphal East,0,275.75,21.647
+Punjab,Pathankot,0,275.5,63.654
+Punjab,Mansa,0,275.25,31.396
+Delhi,New Delhi,0,271.333,109.33
+Telangana,Komaram Bheem,0,270.0,29.236
+Nagaland,Kohima,0,268.167,50.196
+Telangana,Mancherial,0,266.25,15.625
+Maharashtra,Buldana,0,265.5,25.406
+Uttarakhand,Chamoli,0,261.25,25.445
+Punjab,Fatehgarh Sahib,0,258.0,41.266
+Nagaland,Tuensang,0,257.667,32.311
+Manipur,Thoubal,0,254.75,35.483
+Assam,Biswanath,0,254.4,43.258
+Tamil Nadu,Tirupattur,0,253.75,33.726
+Andhra Pradesh,Warangal,0,251.0,38.356
+Telangana,Jangoan,0,251.0,23.908
+Punjab,Barnala,0,250.25,32.499
+Telangana,Hanumakonda,0,249.75,26.979
+Andhra Pradesh,Annamayya,0,248.75,43.943
+Tamil Nadu,Chengalpattu,0,247.6,54.284
+Maharashtra,Chhatrapati Sambhajinagar,0,247.5,19.452
+Manipur,Imphal West,0,243.4,89.786
+Jharkhand,Purbi Singhbhum,0,242.75,29.109
+Delhi,Shahdara,0,242.429,206.711
+Karnataka,Hasan,0,241.5,27.2
+Himachal Pradesh,Kullu,0,238.8,56.468
+Himachal Pradesh,Bilaspur,0,238.0,2.875
+Manipur,Tamenglong,0,236.25,23.909
+Uttarakhand,Rudraprayag,0,234.75,25.943
+Assam,West Karbi Anglong,0,234.0,43.618
+Andhra Pradesh,Kakinada,0,233.0,39.789
+Telangana,Mulugu,0,232.5,18.917
+Punjab,Shaheed Bhagat Singh Nagar,0,230.5,77.823
+Chhattisgarh,Kabeerdham,0,229.25,33.301
+Andhra Pradesh,N. T. R,0,228.0,48.003
+Andhra Pradesh,Visakhapatanam,0,226.0,0.0
+Andhra Pradesh,Sri Sathya Sai,0,225.25,25.482
+Punjab,Faridkot,0,222.75,63.383
+Andhra Pradesh,Nandyal,0,221.5,31.797
+Manipur,Bishnupur,0,221.4,49.484
+Gujarat,The Dangs,0,220.333,69.772
+Telangana,Rajanna Sircilla,0,216.5,13.452
+Uttarakhand,Champawat,0,212.5,22.364
+Odisha,Debagarh,0,211.25,4835.459
+Assam,Sivasagar,0,211.0,231.577
+Punjab,Malerkotla,0,210.5,34.916
+Chhattisgarh,Uttar Bastar Kanker,0,209.75,28.209
+Tamil Nadu,Kallakurichi,0,209.4,34.842
+Nagaland,Phek,0,207.6,37.433
+Andhra Pradesh,Palnadu,0,207.5,30.885
+Jharkhand,Seraikela-kharsawan,0,206.0,56.331
+Telangana,Jayashankar Bhupalpally,0,206.0,21.45
+Meghalaya,Eastern West Khasi Hills,0,204.5,614.712
+Karnataka,Ramanagara,0,204.0,0.0
+Haryana,Charkhi Dadri,0,203.5,62.824
+Odisha,Baleshwar,0,203.5,35.989
+Jammu And Kashmir,Ganderbal,0,201.75,35.115
+Jammu And Kashmir,Budgam,0,201.0,12.486
+Assam,Charaideo,0,197.0,217.751
+Andhra Pradesh,Y. S. R,0,196.75,55.276
+West Bengal,Purulia,0,193.75,31.243
+West Bengal,Jhargram,0,188.6,215.038
+Manipur,Ukhrul,0,188.5,39.02
+Madhya Pradesh,West Nimar,0,186.75,29.709
+Manipur,Chandel,0,183.25,40.145
+Chhattisgarh,Narayanpur,0,182.25,44.766
+Madhya Pradesh,Narmadapuram,0,181.5,55.008
+Nagaland,Peren,0,181.375,28.079
+Uttarakhand,Bageshwar,0,180.75,49.276
+Telangana,Warangal Rural,0,180.0,19.953
+West Bengal,Darjiling,0,177.5,36.374
+Andhra Pradesh,Mahbubnagar,0,177.0,27.769
+Nagaland,Kiphire,0,176.2,35.374
+Arunachal Pradesh,Longding,0,175.6,45.504
+Chhattisgarh,Dantewada,0,174.0,433.947
+Assam,North Cachar Hills,0,173.833,75.039
+Karnataka,yadgir,0,170.5,39.235
+Odisha,Jagatsinghpur,0,169.0,16.539
+Rajasthan,Jalore,0,164.667,50.652
+Andhra Pradesh,Dr. B. R. Ambedkar Konaseema,0,162.75,56.797
+Telangana,Warangal Urban,0,162.75,26.104
+Jammu And Kashmir,Shupiyan,0,162.5,29.969
+Andhra Pradesh,Karimnagar,0,160.75,46.325
+Andhra Pradesh,Eluru,0,152.0,62.219
+Nagaland,Zunheboto,0,150.0,44.919
+Nagaland,Longleng,0,147.667,50.084
+Telangana,Peddapalli,0,145.5,24.042
+Odisha,Sundargarh,0,144.25,139.16
+Jharkhand,Pashchimi Singhbhum,0,144.0,42.11
+Meghalaya,Kamrup,0,143.0,0.0
+Jammu And Kashmir,Samba,0,142.5,21.592
+Maharashtra,Bid,0,138.75,18.348
+Tripura,Gomati,0,134.6,49.221
+Uttar Pradesh,Bhadohi,0,133.25,18.874
+Andhra Pradesh,Anakapalli,0,131.0,73.315
+Jammu And Kashmir,Kargil,0,129.25,6302.13
+Telangana,Medchal−malkajgiri,0,129.0,25.765
+Tripura,Unakoti,0,125.6,117.889
+Andhra Pradesh,Nizamabad,0,124.5,47.421
+Tamil Nadu,Mayiladuthurai,0,123.25,34.346
+Andhra Pradesh,Parvathipuram Manyam,0,122.25,19.859
+Andhra Pradesh,Bapatla,0,120.5,59.311
+Karnataka,Davanagere,0,119.25,44.162
+Tamil Nadu,Thiruvallur,0,119.2,46.085
+Mizoram,Lunglei,0,116.667,47.62
+Chhattisgarh,Sakti,0,113.0,57.041
+Nagaland,Wokha,0,110.8,26.786
+Arunachal Pradesh,Papum Pare,0,108.5,26.633
+West Bengal,South Dinajpur,0,108.5,26.01
+Mizoram,Saiha,0,106.5,18.986
+Madhya Pradesh,Mauganj,0,105.75,13.876
+Orissa,Balangir,0,105.5,1.202
+Maharashtra,Mumbai( Sub Urban ),0,102.75,59.032
+Assam,Majuli,0,102.2,49.159
+Puducherry,Karaikal,0,100.5,49.848
+Madhya Pradesh,Maihar,0,100.0,24.965
+Orissa,Ganjam,0,98.5,0.69
+Punjab,Firozpur,0,98.25,55.984
+Odisha,Khordha,0,97.8,48.957
+Odisha,Subarnapur,0,97.75,2004.162
+Nagaland,Mokokchung,0,97.2,22.634
+Tamil Nadu,Kanchipuram,0,96.75,485.078
+Orissa,Baleshwar,0,94.0,7.428
+Karnataka,Chamrajnagar,0,93.5,29.293
+Orissa,Bhadrak,0,91.75,0.732
+Sikkim,East,0,90.0,62.777
+Jharkhand,Sahibganj,0,86.25,45.336
+Rajasthan,Chittaurgarh,0,85.25,85.79
+West Bengal,North Dinajpur,0,84.5,21.545
+Sikkim,East Sikkim,0,84.25,32.919
+West Bengal,Kalimpong,0,84.0,94.75
+Punjab,Muktsar,0,82.75,52.279
+Sikkim,West Sikkim,0,82.0,39.556
+Maharashtra,Ahmed Nagar,0,81.75,52.221
+Orissa,Cuttack,0,79.25,1.202
+Tripura,Khowai,0,78.5,90.628
+Kerala,Kasargod,0,77.5,16.33
+Sikkim,South Sikkim,0,76.5,195.917
+Jharkhand,Kodarma,0,76.25,42.462
+Rajasthan,Jhunjhunu,0,74.0,35.287
+Telangana,Rangareddy,0,73.5,17.89
+Jharkhand,Pakaur,0,72.75,71.245
+Chhattisgarh,Manendragarh–Chirmiri–Bharatpur,0,72.0,24.866
+Jharkhand,Palamau,0,69.0,160.175
+Nagaland,Noklak,0,68.4,97.301
+Punjab,S.A.S Nagar(Mohali),0,68.0,39.17
+Bihar,Purnea,0,63.75,50.995
+Karnataka,Chamarajanagar,0,63.5,35.909
+Chhattisgarh,Mohla-Manpur-Ambagarh Chouki,0,63.25,42.23
+Nagaland,Shamator,0,61.75,39.937
+Chhattisgarh,Khairagarh Chhuikhadan Gandai,0,58.25,68.224
+Arunachal Pradesh,West Kameng,0,54.6,24.966
+Mizoram,Kolasib,0,54.6,28.836
+Orissa,Puri,0,53.75,0.465
+100000,100000,0,53.5,826.457
+Maharashtra,Chatrapati Sambhaji Nagar,0,52.75,43.12
+Sikkim,West,0,50.75,39.0
+Jammu And Kashmir,Leh,0,49.75,68.412
+Karnataka,Bengaluru South,0,49.0,418.616
+Sikkim,South,0,48.5,72.792
+Punjab,Nawanshahr,0,47.75,42.42
+West Bengal,Hugli,0,47.0,29.265
+Arunachal Pradesh,West Siang,0,46.5,26.211
+Uttar Pradesh,Bulandshahar,0,45.25,57.805
+Arunachal Pradesh,East Kameng,0,44.75,33.992
+Chhattisgarh,Sarangarh-Bilaigarh,0,44.75,31.06
+Orissa,Rayagada,0,44.25,1.052
+Mizoram,Mamit,0,42.5,27.655
+Odisha,Baudh,0,42.25,1279.941
+Assam,Dima Hasao,0,41.333,67.74
+Arunachal Pradesh,East Siang,0,41.25,43.439
+Pondicherry,Karaikal,0,40.5,37.806
+Assam,Sribhumi,0,40.25,109.764
+Himachal Pradesh,Kinnaur,0,40.0,57.5
+Arunachal Pradesh,Lohit,0,39.25,36.701
+Arunachal Pradesh,Tawang,0,38.25,29.939
+Karnataka,Chikmagalur,0,37.5,29.957
+Arunachal Pradesh,Namsai,0,37.0,25.438
+Nagaland,Chumukedima,0,36.4,64.286
+Manipur,Jiribam,0,36.25,35.132
+Maharashtra,Dharashiv,0,35.75,18.353
+Uttarakhand,Hardwar,0,35.75,30.618
+Odisha,Anugul,0,35.25,103.292
+Arunachal Pradesh,Upper Subansiri,0,34.75,24.851
+Madhya Pradesh,Niwari,0,34.5,109.877
+Chhattisgarh,Gaurela-pendra-marwahi,0,33.0,14.82
+Orissa,Sundargarh,0,33.0,4.334
+Rajasthan,Dhaulpur,0,32.75,75.461
+Orissa,Dhenkanal,0,31.5,0.886
+Ladakh,Leh,0,31.25,14.55
+Bihar,Purba Champaran,0,30.25,25.789
+Orissa,Koraput,0,29.5,0.645
+Tamil Nadu,Ranipet,0,27.75,52.165
+Manipur,Kakching,0,27.25,33.934
+Orissa,Jajapur,0,27.25,0.323
+Arunachal Pradesh,Lower Subansiri,0,26.25,41.588
+Arunachal Pradesh,Lower Dibang Valley,0,25.75,24.905
+Bihar,Aurangabad(bh),0,25.75,46.928
+Arunachal Pradesh,Siang,0,25.5,43.736
+Mizoram,Serchhip,0,25.0,29.575
+Orissa,Nayagarh,0,25.0,1.243
+Madhya Pradesh,Pandhurna,0,24.5,58.656
+Arunachal Pradesh,Tirap,0,22.25,40.552
+Orissa,Bargarh,0,22.0,0.694
+Maharashtra,Raigarh(MH),0,21.25,67.781
+Andhra Pradesh,Karim Nagar,0,20.25,26.859
+Arunachal Pradesh,Kra Daadi,0,20.0,19.535
+Uttar Pradesh,Jyotiba Phule Nagar,0,19.75,30.453
+Uttar Pradesh,Sant Ravidas Nagar Bhadohi,0,19.75,16.976
+Bihar,Samstipur,0,19.5,78.065
+Telangana,Jangaon,0,19.25,20.177
+Mizoram,Mammit,0,19.0,34.609
+Andaman And Nicobar Islands,Nicobar,0,18.5,41.247
+Arunachal Pradesh,Kurung Kumey,0,18.25,51.884
+Rajasthan,Deeg,0,17.25,245.408
+Andhra Pradesh,K.V.Rangareddy,0,16.75,22.312
+Dadra And Nagar Haveli And Daman And Diu,Daman,0,15.25,122.465
+Sikkim,North Sikkim,0,15.0,44.974
+Haryana,Yamunanagar,0,14.75,15.625
+Delhi,South East Delhi,0,14.0,154.949
+Assam,Tamulpur District,0,13.5,25.325
+Orissa,Kendrapara,0,13.0,0.451
+Uttarakhand,Garhwal,0,13.0,33.504
+Bihar,Monghyr,0,12.25,93.089
+Orissa,Anugul,0,12.25,25.826
+Maharashtra,Ahilyanagar,0,12.0,0.0
+Orissa,Kendujhar,0,12.0,0.391
+Orissa,Malkangiri,0,11.5,1.236
+Sikkim,North,0,11.0,43.864
+Arunachal Pradesh,Upper Siang,0,10.25,24.003
+Odisha,NUAPADA,0,9.5,127.454
+Andaman & Nicobar Islands,South Andaman,0,9.25,41.521
+Himachal Pradesh,Lahul & Spiti,0,9.25,77.782
+Arunachal Pradesh,Anjaw,0,9.0,130.67
+Mizoram,Khawzawl,0,8.5,131.308
+Orissa,Jagatsinghapur,0,8.5,0.373
+Chhattisgarh,Janjgir - Champa,0,8.25,167.972
+Orissa,Kandhamal,0,8.0,0.168
+Arunachal Pradesh,Lower Siang,0,7.75,156.548
+Arunachal Pradesh,Shi-yomi,0,7.75,95.842
+Bihar,Bhabua,0,7.75,20.935
+Himachal Pradesh,Lahul and Spiti,0,7.75,45.25
+Orissa,Mayurbhanj,0,7.75,0.177
+Arunachal Pradesh,Kamle,0,7.5,330.218
+Delhi,Najafgarh,0,7.5,164.476
+Nagaland,Tseminyu,0,7.25,38.249
+Dadra And Nagar Haveli And Daman And Diu,Diu,0,7.0,37.481
+Maharashtra,Gondia,0,7.0,31.078
+Nagaland,Niuland,0,7.0,30.69
+West Bengal,Medinipur,0,7.0,18.368
+Bihar,Sheikpura,0,6.75,105.953
+Assam,Bajali,0,6.5,39.31
+Orissa,Jharsuguda,0,6.25,0.945
+Chhattisgarh,Janjgir Champa,0,6.0,47.404
+Orissa,Sambalpur,0,6.0,0.674
+Pondicherry,Yanam,0,6.0,262.996
+Sikkim,Namchi,0,5.75,54.77
+Nagaland,Meluri,0,5.667,30.139
+Orissa,Sonapur,0,5.0,0.513
+West  Bengal,Hooghly,0,5.0,55.426
+West Bengal,MALDA,0,5.0,59.656
+Uttar Pradesh,Mahrajganj,0,4.5,52.99
+Chhattisgarh,Mohalla-Manpur-Ambagarh Chowki,0,4.333,544.181
+Odisha,jajpur,0,4.25,52.779
+Andhra Pradesh,K.v. Rangareddy,0,4.0,1.622
+Meghalaya,Jaintia Hills,0,4.0,0.0
+Tamil Nadu,Tirupathur,0,4.0,0.0
+Odisha,Jajpur,0,3.75,13.15
+Orissa,Kalahandi,0,3.333,0.17
+Odisha,ANUGUL,0,3.25,16.665
+Mizoram,Saitual,0,3.0,264.706
+Bihar,Aurangabad(BH),0,2.667,76.376
+Jammu & Kashmir,Kathua,0,2.667,57.516
+Orissa,Gajapati,0,2.667,0.357
+Arunachal Pradesh,Dibang Valley,0,2.5,37.5
+Manipur,Pherzawl,0,2.5,42.855
+West Bengal,Hawrah,0,2.5,212.132
+West Bengal,hooghly,0,2.5,115.471
+Andhra Pradesh,Mahabubnagar,0,2.333,57.692
+Puducherry,Yanam,0,2.333,25.553
+Telangana,Warangal (urban),0,2.333,28.868
+Daman & Diu,Daman,0,2.25,7.547
+Jammu & Kashmir,Anantnag,0,2.0,70.548
+Jammu & Kashmir,Doda,0,2.0,0.0
+Jammu & Kashmir,Kupwara,0,2.0,57.579
+Orissa,Subarnapur,0,2.0,1.596
+Rajasthan,Didwana-Kuchaman,0,2.0,0.0
+West Bengal,Burdwan,0,2.0,0.0
+West Bengal,HOOGHLY,0,2.0,173.205
+West Bengal,South 24 parganas,0,2.0,0.0
+West Bengal,West Medinipur,0,2.0,0.0
+Orissa,Debagarh,0,1.75,0.583
+Chandigarh,Rupnagar,0,1.5,69.912
+Himachal Pradesh,Lahaul and Spiti,0,1.5,70.711
+Karnataka,Bijapur(KAR),0,1.5,35.355
+Orissa,Baleswar,0,1.5,0.113
+Uttar Pradesh,Raebareli,0,1.5,70.711
+West Bengal,HOWRAH,0,1.5,35.355
+West Bengal,NADIA,0,1.5,35.355
+West Bengal,nadia,0,1.5,70.711
+Andhra Pradesh,chittoor,0,1.333,76.376
+Arunachal Pradesh,Pakke Kessang,0,1.333,28.868
+Jammu & Kashmir,Pulwama,0,1.333,0.139
+Orissa,Baudh,0,1.333,1.275
+Andaman & Nicobar Islands,Nicobars,0,1.0,0.0
+Andhra Pradesh,rangareddi,0,1.0,0.0
+Arunachal Pradesh,Leparada,0,1.0,0.0
+Goa,Bardez,0,1.0,0.0
+Jammu & Kashmir,Badgam,0,1.0,0.0
+Jammu & Kashmir,Bandipur,0,1.0,0.0
+Jammu & Kashmir,Kargil,0,1.0,57.184
+Jammu & Kashmir,Leh (ladakh),0,1.0,0.0
+Jammu & Kashmir,Punch,0,1.0,0.0
+Jammu & Kashmir,Rajauri,0,1.0,0.0
+Jammu & Kashmir,Srinagar,0,1.0,57.66
+Jammu & Kashmir,Udhampur,0,1.0,70.633
+Jammu And Kashmir,punch,0,1.0,0.0
+Mizoram,Hnahthial,0,1.0,0.0
+Odisha,ANGUL,0,1.0,0.0
+Odisha,Anugal,0,1.0,0.0
+Orissa,Khorda,0,1.0,0.0
+Orissa,Nabarangapur,0,1.0,0.042
+Orissa,Nuapada,0,1.0,0.049
+Orissa,Sundergarh,0,1.0,0.0
+Puducherry,Pondicherry,0,1.0,0.306
+Rajasthan,Balotra,0,1.0,0.0
+Rajasthan,Beawar,0,1.0,0.0
+Rajasthan,Salumbar,0,1.0,0.0
+Sikkim,Mangan,0,1.0,0.0
+Tamil Nadu,Tiruvarur,0,1.0,0.0
+Tamil Nadu,Tuticorin,0,1.0,0.0
+Telangana,Medchal?malkajgiri,0,1.0,0.0
+Uttar Pradesh,Bagpat,0,1.0,0.0
+West Bengal,East Midnapur,0,1.0,0.0
+West Bengal,Hooghiy,0,1.0,0.0
+West Bengal,KOLKATA,0,1.0,0.0
+West Bengal,South 24 Pargana,0,1.0,0.0
+West Bengal,Murshidabad,1,8742.0,25.587
+Karnataka,Bengaluru Urban,1,7691.333,734.789
+West Bengal,South 24 Parganas,1,7417.25,18.86
+Karnataka,Bengaluru,1,5109.5,29.323
+Bihar,West Champaran,1,4985.5,23.457
+Bihar,Purbi Champaran,1,4957.0,997.455
+Bihar,East Champaran,1,4796.5,38.554
+Maharashtra,Thane,1,4793.556,2397.797
+West Bengal,North 24 Parganas,1,4703.333,552.995
+Bihar,Sitamarhi,1,4628.0,85.452
+West Bengal,Paschim Medinipur,1,4439.25,27.95
+West Bengal,Uttar Dinajpur,1,4407.5,74.007
+Rajasthan,Jaipur,1,4334.429,614.548
+Uttar Pradesh,Bahraich,1,4321.889,313.539
+Uttar Pradesh,Hardoi,1,4155.0,108.291
+Maharashtra,Pune,1,3893.5,787.832
+West Bengal,Dinajpur Uttar,1,3890.333,2045.685
+West Bengal,Barddhaman,1,3876.25,38.542
+Uttar Pradesh,Sitapur,1,3809.375,106.234
+Bihar,Samastipur,1,3700.2,201.382
+Maharashtra,Nashik,1,3669.833,1166.0
+Gujarat,Surat,1,3563.857,91.011
+West Bengal,Purba Medinipur,1,3529.0,31.434
+Madhya Pradesh,Ujjain,1,3514.25,67.909
+Bihar,Vaishali,1,3489.6,500.03
+Uttar Pradesh,Bareilly,1,3419.625,46.922
+Bihar,Saran,1,3379.714,103.943
+Bihar,Gaya,1,3345.0,39.169
+Uttar Pradesh,Bijnor,1,3289.0,74.206
+West Bengal,Puruliya,1,3262.75,39.094
+Uttar Pradesh,Agra,1,3260.556,44.084
+Uttar Pradesh,Allahabad,1,3227.5,36.816
+Telangana,Hyderabad,1,3195.0,152.048
+Meghalaya,East Khasi Hills,1,3184.0,839.72
+Bihar,Muzaffarpur,1,3144.222,903.216
+Rajasthan,Barmer,1,3083.6,276.23
+West Bengal,24 Paraganas North,1,3073.5,272.54
+Uttar Pradesh,Kheri,1,3034.25,156.649
+Bihar,Darbhanga,1,3033.4,486.556
+Bihar,Nawada,1,3009.6,22.204
+Uttar Pradesh,Shahjahanpur,1,3006.75,139.291
+Uttar Pradesh,Meerut,1,2950.75,546.26
+Kerala,Malappuram,1,2893.8,558.428
+Uttar Pradesh,Varanasi,1,2892.375,229.291
+Uttar Pradesh,Azamgarh,1,2887.286,264.81
+Uttar Pradesh,Aligarh,1,2872.333,81.351
+Rajasthan,Alwar,1,2866.375,96.395
+Maharashtra,Mumbai,1,2860.4,167.667
+Gujarat,Banaskantha,1,2833.5,83.101
+Uttar Pradesh,Ghaziabad,1,2831.75,64.527
+Bihar,Madhubani,1,2821.111,76.727
+Jharkhand,Giridih,1,2818.8,63.613
+Tamil Nadu,Tiruvallur,1,2816.25,52.599
+Bihar,Purnia,1,2799.0,73.347
+Rajasthan,Bharatpur,1,2793.833,251.52
+Madhya Pradesh,Morena,1,2783.5,85.413
+Uttar Pradesh,Lucknow,1,2779.889,657.737
+Uttar Pradesh,Ghazipur,1,2766.75,39.904
+Madhya Pradesh,Indore,1,2757.25,284.673
+Rajasthan,Jalor,1,2727.2,87.397
+Madhya Pradesh,Barwani,1,2726.625,131.735
+Rajasthan,Jodhpur,1,2724.125,110.89
+Uttar Pradesh,Kanpur Nagar,1,2697.667,447.81
+Uttar Pradesh,Moradabad,1,2679.5,57.717
+Bihar,Patna,1,2673.444,1372.983
+Gujarat,Ahmedabad,1,2644.714,383.644
+Bihar,Katihar,1,2624.5,184.494
+Bihar,Bhojpur,1,2595.8,148.823
+West Bengal,Malda,1,2593.667,900.21
+Maharashtra,Mumbai Suburban,1,2568.714,121.813
+Tamil Nadu,Kancheepuram,1,2541.4,559.713
+Bihar,Begusarai,1,2525.0,185.097
+Uttar Pradesh,Pratapgarh,1,2524.5,145.057
+Bihar,Araria,1,2521.167,563.469
+Bihar,Supaul,1,2509.0,13.215
+Uttar Pradesh,Gonda,1,2507.667,124.846
+Uttar Pradesh,Rampur,1,2493.375,122.421
+Assam,Cachar,1,2458.714,109.152
+Bihar,Aurangabad,1,2452.5,36.227
+Maharashtra,Aurangabad,1,2449.857,140.247
+Uttar Pradesh,Ballia,1,2431.0,36.512
+Rajasthan,Nagaur,1,2420.429,121.959
+Rajasthan,Udaipur,1,2403.833,288.71
+Uttar Pradesh,Rae Bareli,1,2386.25,21.601
+Bihar,Nalanda,1,2352.167,40.893
+Bihar,Pashchim Champaran,1,2336.857,1915.129
+Maharashtra,Ahmadnagar,1,2331.4,1559.181
+Uttar Pradesh,Saharanpur,1,2325.125,253.089
+Uttar Pradesh,Siddharthnagar,1,2297.333,61.193
+Bihar,Bhagalpur,1,2288.444,560.379
+Uttar Pradesh,Jaunpur,1,2217.429,189.128
+Madhya Pradesh,Chhatarpur,1,2208.0,148.821
+West Bengal,Nadia,1,2191.125,119.834
+Uttar Pradesh,Gorakhpur,1,2186.111,626.072
+Madhya Pradesh,Satna,1,2184.0,267.432
+Uttar Pradesh,Siddharth Nagar,1,2170.5,639.635
+Bihar,Madhepura,1,2158.5,25.315
+Jharkhand,Dhanbad,1,2158.2,71.065
+Delhi,West Delhi,1,2144.222,174.946
+Bihar,Siwan,1,2124.857,229.279
+Bihar,Gopalganj,1,2121.143,44.207
+Uttar Pradesh,Unnao,1,2106.667,218.13
+Jharkhand,Palamu,1,2100.25,95.666
+Gujarat,Rajkot,1,2097.125,432.658
+Uttar Pradesh,Gautam Buddha Nagar,1,2087.556,71.675
+Uttar Pradesh,Bulandshahr,1,2084.5,645.903
+Uttar Pradesh,Kushinagar,1,2069.4,389.636
+Madhya Pradesh,Gwalior,1,2041.111,153.148
+Madhya Pradesh,Mandsaur,1,2037.0,97.839
+Madhya Pradesh,Rajgarh,1,1987.5,77.098
+Tamil Nadu,Salem,1,1986.6,262.615
+Jharkhand,Ranchi,1,1986.0,95.312
+Rajasthan,Ajmer,1,1982.5,150.982
+Uttar Pradesh,Basti,1,1982.2,465.74
+Delhi,North East Delhi,1,1977.0,89.442
+Meghalaya,West Garo Hills,1,1974.875,52.281
+Tamil Nadu,Chennai,1,1971.8,314.132
+Bihar,Khagaria,1,1971.75,29.646
+Madhya Pradesh,Ratlam,1,1971.0,110.808
+Uttar Pradesh,Maharajganj,1,1968.444,311.294
+Uttar Pradesh,Muzaffarnagar,1,1960.167,53.432
+Madhya Pradesh,Sagar,1,1940.0,257.785
+Punjab,Ludhiana,1,1939.667,670.08
+Gujarat,Banas Kantha,1,1927.286,150.351
+Karnataka,Raichur,1,1913.4,256.53
+Uttar Pradesh,Budaun,1,1909.0,175.379
+Maharashtra,Jalgaon,1,1875.571,97.833
+Madhya Pradesh,Khargone,1,1865.25,288.598
+Gujarat,Dohad,1,1848.0,1056.343
+Uttar Pradesh,Mau,1,1846.0,36.378
+Rajasthan,Jhunjhunun,1,1844.25,39.422
+Assam,Karimganj,1,1824.875,150.69
+Madhya Pradesh,Bhopal,1,1806.714,92.433
+Rajasthan,Bhilwara,1,1806.167,174.01
+Rajasthan,Churu,1,1799.286,120.142
+Bihar,Saharsa,1,1798.571,73.343
+Madhya Pradesh,Dhar,1,1792.714,107.577
+Uttar Pradesh,Bara Banki,1,1787.4,597.081
+Maharashtra,Dhule,1,1787.286,271.48
+Bihar,Banka,1,1782.167,233.818
+Rajasthan,Pali,1,1781.2,884.856
+Madhya Pradesh,Shivpuri,1,1775.286,88.547
+Uttar Pradesh,Amethi,1,1766.5,26.194
+Rajasthan,Banswara,1,1763.75,71.897
+West Bengal,Cooch Behar,1,1761.667,112.597
+Meghalaya,West Khasi Hills,1,1755.889,211.227
+Haryana,Faridabad,1,1753.444,325.127
+Delhi,North West Delhi,1,1722.333,687.67
+Uttar Pradesh,Firozabad,1,1721.714,439.16
+Maharashtra,Solapur,1,1718.143,194.399
+Uttar Pradesh,Sambhal,1,1712.6,212.79
+Gujarat,Dahod,1,1698.5,83.08
+Uttar Pradesh,Deoria,1,1685.5,356.067
+Madhya Pradesh,Jhabua,1,1679.5,82.53
+Maharashtra,Nagpur,1,1665.571,138.828
+Delhi,South Delhi,1,1651.5,86.474
+Uttar Pradesh,Mainpuri,1,1642.857,83.774
+Uttar Pradesh,Mathura,1,1640.429,530.085
+Rajasthan,Bikaner,1,1629.75,94.95
+Tamil Nadu,Madurai,1,1616.333,1764.724
+Uttar Pradesh,Etah,1,1595.0,73.982
+Rajasthan,Sikar,1,1585.143,247.752
+Assam,Nagaon,1,1573.625,642.945
+Uttar Pradesh,Ambedkar Nagar,1,1569.4,420.149
+Assam,Barpeta,1,1559.222,202.999
+Assam,Dhubri,1,1545.25,144.626
+Madhya Pradesh,Bhind,1,1541.889,303.751
+Uttar Pradesh,Fatehpur,1,1512.875,121.076
+Madhya Pradesh,Ashoknagar,1,1505.5,103.867
+Madhya Pradesh,Raisen,1,1494.0,207.723
+Assam,Kamrup,1,1490.222,1085.169
+Madhya Pradesh,Dewas,1,1481.0,86.953
+Maharashtra,Nanded,1,1470.875,85.136
+West Bengal,Coochbehar,1,1470.0,2250.825
+Rajasthan,Kota,1,1465.4,1801.472
+Madhya Pradesh,Vidisha,1,1457.429,239.16
+Assam,Golaghat,1,1416.125,78.317
+Uttar Pradesh,Sultanpur,1,1399.75,108.179
+Kerala,Thrissur,1,1387.4,1614.301
+Maharashtra,Nandurbar,1,1379.857,256.239
+Rajasthan,Jhalawar,1,1374.2,744.01
+Madhya Pradesh,Katni,1,1348.25,141.816
+Jharkhand,Deoghar,1,1343.333,488.192
+Gujarat,Vadodara,1,1330.333,409.769
+Madhya Pradesh,Panna,1,1328.571,246.152
+Jharkhand,East Singhbhum,1,1323.333,287.952
+Gujarat,Ahmadabad,1,1105.5,144.178
+Telangana,K.v. Rangareddy,2,3402.0,168633.264
+West Bengal,Hooghly,2,2999.6,220310.111
+Telangana,Mahabubnagar,2,2494.5,109908.873
+West Bengal,Howrah,2,2228.2,108905.291
+Andhra Pradesh,Kurnool,3,2879.0,21.211
+West Bengal,Bankura,3,2756.5,57.649
+Madhya Pradesh,Rewa,3,2667.5,23.055
+Tamil Nadu,Tiruchirappalli,3,2430.0,43.087
+Andhra Pradesh,Guntur,3,2370.0,52.823
+Tamil Nadu,Tirunelveli,3,2355.75,31.457
+Madhya Pradesh,Chhindwara,3,2216.5,34.912
+West Bengal,Birbhum,3,2174.857,199.263
+Madhya Pradesh,Jabalpur,3,2063.833,304.926
+Bihar,Kishanganj,3,2057.5,12.803
+Odisha,Mayurbhanj,3,2002.0,16494.168
+Andhra Pradesh,Chittoor,3,1986.0,34.685
+Andhra Pradesh,Visakhapatnam,3,1977.5,34.965
+Tamil Nadu,Vellore,3,1893.8,230.569
+Uttar Pradesh,Mirzapur,3,1883.0,49.737
+Odisha,Ganjam,3,1882.5,794.804
+Andhra Pradesh,East Godavari,3,1876.0,42.485
+Telangana,Medak,3,1848.25,47.237
+Maharashtra,Kolhapur,3,1840.75,31.253
+Tamil Nadu,Tiruvannamalai,3,1782.75,48.98
+Madhya Pradesh,Tikamgarh,3,1782.5,60.504
+Tamil Nadu,Coimbatore,3,1746.8,1490.923
+Chhattisgarh,Bilaspur,3,1741.6,301.834
+Madhya Pradesh,Shajapur,3,1710.0,74.334
+Karnataka,Bangalore,3,1706.0,26.534
+Uttar Pradesh,Faizabad,3,1692.0,34.992
+Tamil Nadu,Cuddalore,3,1690.8,948.223
+Kerala,Palakkad,3,1663.0,22.204
+Karnataka,Belgaum,3,1659.25,30.38
+Kerala,Kozhikode,3,1658.75,43.251
+Tamil Nadu,Villupuram,3,1654.75,82.891
+Andhra Pradesh,Krishna,3,1642.0,44.334
+Telangana,Nalgonda,3,1632.5,56.723
+Chhattisgarh,Bastar,3,1625.25,58.527
+Telangana,Nizamabad,3,1617.5,232.662
+Madhya Pradesh,Guna,3,1616.5,103.934
+Madhya Pradesh,Singrauli,3,1566.25,13.003
+Madhya Pradesh,Sidhi,3,1553.0,12.569
+Tamil Nadu,Tiruppur,3,1511.25,47.727
+Jharkhand,Sahebganj,3,1507.75,84.168
+Haryana,Nuh,3,1506.0,0.0
+Madhya Pradesh,Seoni,3,1499.75,47.492
+Rajasthan,Dausa,3,1494.75,57.359
+Tamil Nadu,Dindigul,3,1489.75,55.96
+Uttarakhand,Udham Singh Nagar,3,1482.5,34.229
+Madhya Pradesh,Damoh,3,1481.5,50.0
+Andhra Pradesh,Prakasam,3,1478.0,468.745
+Tamil Nadu,Erode,3,1471.5,41.934
+Odisha,Baleswar,3,1461.5,56763.269
+Haryana,Mewat,3,1452.4,18.641
+Tamil Nadu,Thanjavur,3,1444.2,2092.885
+Andhra Pradesh,Cuddapah,3,1440.5,32.871
+Andhra Pradesh,West Godavari,3,1438.0,45.93
+Telangana,Karimnagar,3,1427.0,97.861
+Jharkhand,Bokaro,3,1421.5,49.233
+Tamil Nadu,Dharmapuri,3,1394.0,41.732
+Tamil Nadu,Pudukkottai,3,1383.4,569.359
+Maharashtra,Jalna,3,1378.0,32.131
+Madhya Pradesh,Balaghat,3,1333.2,239.083
+Tamil Nadu,Virudhunagar,3,1320.75,55.607
+Jharkhand,Garhwa,3,1320.5,55.662
+Andhra Pradesh,Nellore,3,1316.0,41.963
+Jharkhand,West Singhbhum,3,1316.0,62.4
+Odisha,Kendujhar,3,1311.0,13925.692
+Tamil Nadu,Thoothukkudi,3,1300.5,31.539
+Madhya Pradesh,Shahdol,3,1299.5,37.002
+Madhya Pradesh,Umaria,3,1284.75,30.68
+Maharashtra,Raigarh,3,1279.75,26.381
+Odisha,Balangir,3,1271.75,572.2
+Tamil Nadu,Viluppuram,3,1259.0,78.279
+Karnataka,Dharwad,3,1254.0,32.953
+Odisha,Bargarh,3,1253.0,5228.078
+Odisha,Cuttack,3,1234.75,622.53
+Odisha,Nabarangapur,3,1233.0,40328.207
+Tamil Nadu,Krishnagiri,3,1227.75,48.43
+Madhya Pradesh,Neemuch,3,1227.25,94.151
+Madhya Pradesh,Mandla,3,1214.75,38.122
+Chhattisgarh,Balrampur,3,1203.2,114.644
+Punjab,Amritsar,3,1193.0,845.793
+Madhya Pradesh,Hoshangabad,3,1182.8,357.007
+Tamil Nadu,Namakkal,3,1181.0,41.045
+Andhra Pradesh,Hyderabad,3,1177.0,7.985
+Chhattisgarh,Raipur,3,1136.667,231.069
+Chhattisgarh,Janjgir-champa,3,1118.75,33.148
+Haryana,Palwal,3,1107.0,41.677
+Odisha,Bhadrak,3,1105.75,433.751
+Odisha,Kalahandi,3,1102.25,17096.495
+Jharkhand,Jamtara,3,1085.0,32.827
+Andhra Pradesh,Anantapur,3,1077.75,34.152
+Odisha,Koraput,3,1077.5,1377.369
+Karnataka,Gulbarga,3,1067.75,28.078
+Jharkhand,Hazaribagh,3,1066.0,268.532
+Odisha,Khorda,3,1055.5,52161.447
+Andhra Pradesh,Srikakulam,3,1044.0,37.147
+Uttarakhand,Dehradun,3,1040.556,175.845
+Karnataka,Gadag,3,1038.75,55.655
+Karnataka,Bijapur,3,1035.75,66.692
+Karnataka,Bellary,3,1035.5,31.84
+Jharkhand,Godda,3,1032.0,538.526
+Tamil Nadu,Thiruvarur,3,1023.75,63.188
+Haryana,Hisar,3,1010.0,117.225
+Haryana,Panipat,3,1001.833,46.382
+Chhattisgarh,Rajnandgaon,3,1001.5,57.433
+Tamil Nadu,Nagapattinam,3,983.75,51.166
+Odisha,Sundergarh,3,983.0,35651.144
+Uttarakhand,Haridwar,3,979.5,453.616
+Haryana,Karnal,3,976.75,22.904
+Tamil Nadu,Karur,3,973.0,46.679
+Chhattisgarh,Raigarh,3,970.2,31.595
+Odisha,Kendrapara,3,966.75,4873.431
+Himachal Pradesh,Kangra,3,962.0,29.591
+Chhattisgarh,Baloda Bazar,3,941.0,82.213
+Andhra Pradesh,Vizianagaram,3,936.25,38.638
+Maharashtra,Akola,3,932.4,73.711
+Haryana,Jind,3,917.25,19.228
+Haryana,Sonipat,3,904.8,97.78
+Jammu And Kashmir,Jammu,3,889.8,6767.757
+Jammu And Kashmir,Doda,3,884.2,23745.759
+Tamil Nadu,Sivaganga,3,873.4,672.56
+Chhattisgarh,Korba,3,866.25,14.347
+Odisha,Puri,3,860.0,811.52
+Chhattisgarh,Surguja,3,859.5,36.46
+Tamil Nadu,Theni,3,850.5,39.281
+Punjab,Patiala,3,847.833,45.234
+Haryana,Bhiwani,3,830.0,21.88
+Jammu And Kashmir,Anantnag,3,806.75,24381.858
+Haryana,Yamuna Nagar,3,805.75,40.855
+Haryana,Sirsa,3,797.5,20.821
+Chhattisgarh,Mahasamund,3,793.75,34.923
+Jammu And Kashmir,Srinagar,3,791.25,46418.339
+Tamil Nadu,Ramanathapuram,3,779.8,331.465
+Maharashtra,Osmanabad,3,777.0,112.623
+Jharkhand,Koderma,3,771.0,36.446
+Odisha,Jagatsinghapur,3,767.75,4774.544
+Odisha,Rayagada,3,756.75,829.011
+Karnataka,Mysore,3,753.5,7.285
+Odisha,Kandhamal,3,749.0,4344.211
+Chhattisgarh,Kondagaon,3,739.75,29.289
+Telangana,Adilabad,3,734.5,87.854
+Jammu And Kashmir,Baramula,3,730.2,4298.712
+Karnataka,Tumkur,3,723.75,13.432
+Telangana,Warangal,3,717.25,4.675
+Chhattisgarh,Surajpur,3,707.75,32.16
+Odisha,Dhenkanal,3,707.75,1246.251
+Jammu And Kashmir,Kathua,3,705.75,40275.677
+Odisha,Malkangiri,3,704.25,7098.401
+Jammu And Kashmir,Kupwara,3,698.75,19135.896
+West Bengal,Haora,3,697.75,38.128
+Chhattisgarh,Mungeli,3,697.5,23.897
+Jammu And Kashmir,Udhampur,3,686.25,41971.91
+Uttarakhand,Tehri Garhwal,3,680.5,44.397
+Manipur,Churachandpur,3,656.286,76.554
+Haryana,Mahendragarh,3,655.0,23.992
+Madhya Pradesh,Dindori,3,654.5,46.923
+Telangana,Vikarabad,3,638.25,28.542
+Jammu And Kashmir,Rajouri,3,630.5,59.972
+Odisha,Sambalpur,3,625.25,5181.486
+Odisha,Jajapur,3,609.75,1037.85
+Himachal Pradesh,Mandi,3,609.0,23.033
+Chhattisgarh,Jashpur,3,596.5,54.357
+Haryana,Kaithal,3,571.4,52.951
+Karnataka,Shimoga,3,555.5,37.892
+Tamil Nadu,Kanniyakumari,3,553.75,30.897
+Tripura,West Tripura,3,547.4,95.115
+Chandigarh,Chandigarh,3,523.4,286.624
+Tamil Nadu,Perambalur,3,517.0,43.866
+Tripura,South Tripura,3,515.5,51.37
+Odisha,Nuapada,3,512.0,16944.333
+Jammu And Kashmir,Punch,3,511.6,30794.628
+Chhattisgarh,Kawardha,3,507.0,24.057
+Andhra Pradesh,Ananthapur,3,484.25,18.634
+Chhattisgarh,Dhamtari,3,480.0,48.631
+Jammu And Kashmir,Ramban,3,468.5,14.632
+Haryana,Kurukshetra,3,462.4,278.554
+Jammu And Kashmir,Pulwama,3,456.5,21892.617
+Jammu And Kashmir,Badgam,3,455.75,21854.826
+Himachal Pradesh,Chamba,3,398.5,40.655
+The Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,3,358.0,61.907
+Tripura,Sepahijala,3,339.8,30.613
+Puducherry,Puducherry,3,327.75,52.167
+Himachal Pradesh,Una,3,300.75,15.618
+Himachal Pradesh,Hamirpur,3,289.75,37.797
+Pondicherry,Pondicherry,3,268.5,15380.922
+Goa,North Goa,3,264.0,510.578
+Mizoram,Aizawl,3,253.25,35.923
+Goa,South Goa,3,239.5,56.271
+Mizoram,Lawngtlai,3,230.857,61.359
+Arunachal Pradesh,Changlang,3,197.5,25.248
+Dadra And Nagar Haveli,Dadra and Nagar Haveli,3,184.5,679.712
+Orissa,Khordha,3,176.75,34.293
+Mizoram,Champhai,3,162.714,37.109
+Ladakh,Kargil,3,123.0,9.913
+Lakshadweep,Lakshadweep,3,49.75,49.845
+Andaman And Nicobar Islands,South Andaman,3,46.75,167.332
+Andaman And Nicobar Islands,North And Middle Andaman,3,32.25,39.747
+Dadra And Nagar Haveli And Daman And Diu,Dadra and Nagar Haveli,3,21.75,3.764
+Andaman & Nicobar Islands,Andamans,3,18.25,48.177
+Jammu & Kashmir,Jammu,3,15.0,11.144
+Daman And Diu,Diu,3,14.25,654.95
+Daman And Diu,Daman,3,14.0,228.674
+Jammu & Kashmir,Baramula,3,11.5,3.921
+Dadra & Nagar Haveli,Dadra & Nagar Haveli,3,6.25,80.212
+Daman & Diu,Diu,3,3.0,24.588
+West Bangal,Howrah,3,2.0,0.573
+West Bangal,Hooghly,3,1.5,82.602
+Westbengal,Hooghly,3,1.5,0.013
+Westbengal,HOOGHLY,3,1.0,0.0
