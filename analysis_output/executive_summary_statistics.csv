@@ -1,0 +1,15 @@
+Metric,Value
+Total Districts Analyzed,1219
+Total States,49
+Enrollment Period (Months),10 months
+Total Enrollments,"5,318,372"
+Average Monthly Enrollment,"1,065"
+Districts in Critical Need,156 (14.9%)
+Districts with Strong Growth,305 (33.6%)
+Districts Experiencing Decline,580 (63.9%)
+Anomalies Detected,298 (6.0%)
+Clusters Identified,4 clusters
+Enrollment Volatility (Avg),499.93
+Growth Rate Volatility (Avg),1318.07
+Top State Enrollment,"1,002,536"
+Bottom State Enrollment,7

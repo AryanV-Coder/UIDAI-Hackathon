@@ -1,0 +1,299 @@
+state,district,date,total_enrollment,anomaly_type,trend
+Uttar Pradesh,Bahraich,2025-03-01,371,Drop,Strong Growth
+Uttarakhand,Haridwar,2025-03-01,60,Drop,Strong Growth
+Uttar Pradesh,Saharanpur,2025-03-01,253,Drop,Strong Growth
+Uttar Pradesh,Aligarh,2025-03-01,623,Drop,Strong Growth
+Chhattisgarh,Bijapur,2025-03-01,160,Drop,Strong Growth
+Assam,Lakhimpur,2025-03-01,101,Drop,Strong Growth
+Assam,North Cachar Hills,2025-04-01,408,Spike,Strong Decline
+Karnataka,Bengaluru,2025-04-01,7847,Spike,Strong Decline
+Tamil Nadu,Thanjavur,2025-04-01,56,Drop,Strong Growth
+Uttar Pradesh,Basti,2025-04-01,289,Drop,Strong Growth
+Uttar Pradesh,Bara Banki,2025-04-01,254,Drop,Strong Growth
+Nagaland,Chumukedima,2025-04-01,86,Spike,Strong Decline
+Meghalaya,South West Garo Hills,2025-04-01,1775,Spike,Strong Decline
+Meghalaya,North Garo Hills,2025-04-01,1495,Spike,Strong Decline
+Tripura,Unakoti,2025-04-01,50,Drop,Strong Growth
+Bihar,Vaishali,2025-04-01,497,Drop,Strong Growth
+Uttar Pradesh,Kaushambi,2025-04-01,267,Drop,Strong Growth
+Nagaland,Phek,2025-04-01,447,Spike,Strong Decline
+Karnataka,Yadgir,2025-04-01,646,Drop,Strong Growth
+Meghalaya,South Garo Hills,2025-04-01,1418,Spike,Strong Decline
+Nagaland,Peren,2025-04-01,544,Spike,Strong Decline
+Chandigarh,Chandigarh,2025-04-01,117,Drop,Strong Growth
+Mizoram,Champhai,2025-04-01,368,Spike,Strong Decline
+Bihar,Gopalganj,2025-05-01,907,Drop,Strong Growth
+Kerala,Kollam,2025-05-01,56,Drop,Strong Growth
+Kerala,Malappuram,2025-05-01,266,Drop,Strong Growth
+Karnataka,Bangalore Rural,2025-05-01,240,Drop,Strong Growth
+Bihar,Arwal,2025-05-01,209,Drop,Strong Growth
+Maharashtra,Yavatmal,2025-05-01,383,Drop,Strong Growth
+Rajasthan,Jaipur,2025-05-01,200,Drop,Strong Growth
+Tamil Nadu,Salem,2025-06-01,494,Drop,Strong Growth
+Karnataka,Raichur,2025-06-01,428,Drop,Strong Growth
+Assam,Lakhimpur,2025-06-01,451,Drop,Strong Growth
+Rajasthan,Jaisalmer,2025-06-01,134,Drop,Strong Decline
+Tamil Nadu,Kanchipuram,2025-06-01,351,Spike,Strong Decline
+Bihar,Darbhanga,2025-06-01,448,Drop,Strong Growth
+Assam,Kamrup,2025-07-01,3804,Spike,Strong Growth
+Gujarat,Chhotaudepur,2025-07-01,1862,Spike,Strong Decline
+Uttar Pradesh,Shahjahanpur,2025-07-01,7925,Spike,Strong Decline
+Manipur,Churachandpur,2025-07-01,1626,Spike,Strong Decline
+West Bengal,Kalimpong,2025-07-01,189,Spike,Strong Decline
+Uttar Pradesh,Maharajganj,2025-07-01,4209,Spike,Strong Growth
+Assam,Chirang,2025-07-01,1309,Spike,Strong Decline
+Delhi,Shahdara,2025-07-01,799,Spike,Strong Decline
+Delhi,New Delhi,2025-07-01,1091,Spike,Strong Decline
+Uttar Pradesh,Rampur,2025-07-01,6154,Spike,Strong Growth
+Bihar,Samastipur,2025-07-01,1014,Drop,Strong Growth
+Bihar,Pashchim Champaran,2025-07-01,9642,Spike,Strong Decline
+Gujarat,Patan,2025-07-01,3151,Spike,Strong Growth
+Maharashtra,Osmanabad,2025-07-01,390,Drop,Strong Growth
+Andhra Pradesh,Prakasam,2025-07-01,237,Drop,Strong Growth
+Uttar Pradesh,Prayagraj,2025-07-01,1066,Spike,Strong Decline
+Assam,Golaghat,2025-07-01,3469,Spike,Strong Decline
+Assam,Dhemaji,2025-07-01,2538,Spike,Strong Growth
+Assam,Goalpara,2025-07-01,2898,Spike,Moderate Decline
+Uttar Pradesh,Etah,2025-07-01,3732,Spike,Strong Decline
+Delhi,North East Delhi,2025-07-01,4482,Spike,Strong Decline
+Gujarat,Sabar Kantha,2025-07-01,2277,Spike,Strong Decline
+Gujarat,Dohad,2025-07-01,8001,Spike,Strong Decline
+Assam,Dima Hasao,2025-07-01,148,Spike,Strong Decline
+Assam,Dibrugarh,2025-07-01,2484,Spike,Strong Growth
+Maharashtra,Raigad,2025-07-01,1166,Spike,Strong Decline
+Delhi,Central Delhi,2025-07-01,1152,Spike,Strong Growth
+Kerala,Kannur,2025-07-01,70,Drop,Strong Growth
+Bihar,Begusarai,2025-07-01,762,Drop,Strong Growth
+Madhya Pradesh,Khargone,2025-07-01,4724,Spike,Strong Growth
+Gujarat,Morbi,2025-07-01,2829,Spike,Strong Decline
+Assam,Cachar,2025-07-01,5873,Spike,Strong Decline
+Madhya Pradesh,Barwani,2025-07-01,7219,Spike,Strong Decline
+Assam,Barpeta,2025-07-01,4389,Spike,Strong Growth
+Nagaland,Mon,2025-07-01,1003,Spike,Strong Decline
+Uttar Pradesh,Barabanki,2025-07-01,1784,Spike,Strong Decline
+Tamil Nadu,Thiruvallur,2025-07-01,346,Spike,Strong Decline
+Assam,Tinsukia,2025-07-01,2507,Spike,Strong Growth
+Gujarat,Surendranagar,2025-07-01,1310,Spike,Strong Decline
+Gujarat,Banas Kantha,2025-07-01,9228,Spike,Strong Decline
+Uttar Pradesh,Bahraich,2025-07-01,10547,Spike,Strong Growth
+Assam,Marigaon,2025-07-01,2506,Spike,Strong Growth
+Karnataka,Vijayapura,2025-07-01,450,Drop,Strong Decline
+Himachal Pradesh,Kullu,2025-07-01,114,Drop,Strong Growth
+Delhi,West Delhi,2025-07-01,5352,Spike,Strong Growth
+West Bengal,Alipurduar,2025-07-01,1631,Spike,Strong Decline
+Uttar Pradesh,Aligarh,2025-07-01,6408,Spike,Strong Growth
+Gujarat,Ahmadabad,2025-07-01,4484,Spike,Strong Decline
+Nagaland,Zunheboto,2025-07-01,349,Spike,Strong Decline
+Nagaland,Kiphire,2025-07-01,305,Spike,Strong Decline
+Maharashtra,Mumbai Suburban,2025-07-01,5571,Spike,Strong Growth
+Gujarat,Panch Mahals,2025-07-01,1323,Spike,Strong Decline
+Chhattisgarh,Bijapur,2025-07-01,1391,Spike,Strong Growth
+Gujarat,Botad,2025-07-01,1090,Spike,Strong Decline
+Madhya Pradesh,Bhind,2025-07-01,4055,Spike,Strong Growth
+Bihar,Bhojpur,2025-07-01,823,Drop,Strong Growth
+Uttar Pradesh,Kasganj,2025-07-01,2248,Spike,Strong Decline
+Karnataka,Bidar,2025-07-01,169,Drop,Strong Growth
+Uttar Pradesh,Sitapur,2025-07-01,8116,Spike,Strong Growth
+Maharashtra,Hingoli,2025-07-01,3006,Spike,Strong Decline
+Sikkim,South Sikkim,2025-07-01,260,Spike,Strong Decline
+Madhya Pradesh,Burhanpur,2025-07-01,2976,Spike,Strong Decline
+Odisha,NUAPADA,2025-09-01,22,Spike,Strong Decline
+Odisha,Nabarangapur,2025-09-01,3026,Spike,Strong Decline
+Andaman And Nicobar Islands,Nicobar,2025-09-01,47,Spike,Strong Decline
+West Bengal,Maldah,2025-09-01,698,Spike,Strong Decline
+Rajasthan,Pali,2025-09-01,3867,Spike,Strong Growth
+Madhya Pradesh,Maihar,2025-09-01,130,Spike,Strong Decline
+Telangana,Nagarkurnool,2025-09-01,578,Spike,Strong Decline
+Maharashtra,Osmanabad,2025-09-01,1303,Spike,Strong Growth
+Odisha,Nuapada,2025-09-01,1069,Spike,Strong Decline
+Assam,Marigaon,2025-09-01,2205,Spike,Strong Growth
+Odisha,Malkangiri,2025-09-01,1652,Spike,Strong Decline
+Bihar,Munger,2025-09-01,1615,Spike,Strong Growth
+Bihar,Nalanda,2025-09-01,3687,Spike,Strong Growth
+Odisha,Mayurbhanj,2025-09-01,3908,Spike,Strong Decline
+Sikkim,Namchi,2025-09-01,11,Spike,Moderate Decline
+Karnataka,Mysuru,2025-09-01,1080,Spike,Strong Growth
+Maharashtra,Nanded,2025-09-01,3707,Spike,Strong Growth
+Madhya Pradesh,Narsinghpur,2025-09-01,1997,Spike,Strong Decline
+West Bengal,North Dinajpur,2025-09-01,124,Spike,Strong Decline
+West Bengal,Murshidabad,2025-09-01,13877,Spike,Strong Decline
+Rajasthan,Nagaur,2025-09-01,6227,Spike,Strong Growth
+Assam,Nagaon,2025-09-01,4246,Spike,Strong Growth
+Madhya Pradesh,Seoni,2025-09-01,2297,Spike,Strong Decline
+Uttarakhand,Pauri Garhwal,2025-09-01,611,Spike,Strong Decline
+Odisha,Subarnapur,2025-09-01,196,Spike,Strong Decline
+Odisha,Sundargarh,2025-09-01,247,Spike,Strong Decline
+Odisha,Sundergarh,2025-09-01,1814,Spike,Strong Decline
+Orissa,Sundergarh,2025-09-01,1,Drop,Strong Decline
+Gujarat,Surendra Nagar,2025-09-01,2461,Spike,Strong Growth
+Gujarat,Tapi,2025-09-01,1041,Spike,Strong Decline
+Arunachal Pradesh,Tawang,2025-09-01,70,Spike,Strong Decline
+Gujarat,The Dangs,2025-09-01,437,Spike,Strong Decline
+Karnataka,Tumkur,2025-09-01,855,Spike,Strong Decline
+Assam,South Salmara Mankachar,2025-09-01,480,Spike,Strong Decline
+Karnataka,Udupi,2025-09-01,1483,Spike,Strong Decline
+Arunachal Pradesh,Upper Subansiri,2025-09-01,56,Spike,Strong Decline
+Bihar,Vaishali,2025-09-01,5984,Spike,Strong Growth
+Karnataka,Vijayanagara,2025-09-01,790,Spike,Strong Decline
+Karnataka,Vijayapura,2025-09-01,2178,Spike,Strong Decline
+Sikkim,West,2025-09-01,95,Spike,Strong Decline
+Madhya Pradesh,West Nimar,2025-09-01,286,Spike,Strong Decline
+Arunachal Pradesh,West Siang,2025-09-01,80,Spike,Strong Decline
+Karnataka,Yadgir,2025-09-01,1853,Spike,Strong Growth
+Maharashtra,Yavatmal,2025-09-01,2205,Spike,Strong Growth
+Madhya Pradesh,Umaria,2025-09-01,1874,Spike,Strong Decline
+Andhra Pradesh,Parvathipuram Manyam,2025-09-01,177,Spike,Strong Decline
+West Bengal,South Dinajpur,2025-09-01,189,Spike,Strong Decline
+Madhya Pradesh,Singrauli,2025-09-01,1998,Spike,Strong Decline
+Telangana,Peddapalli,2025-09-01,229,Spike,Strong Decline
+Manipur,Pherzawl,2025-09-01,7,Spike,Moderate Decline
+Andhra Pradesh,Prakasam,2025-09-01,2689,Spike,Strong Growth
+West Bengal,Purulia,2025-09-01,329,Spike,Strong Decline
+Karnataka,Raichur,2025-09-01,2853,Spike,Strong Growth
+Madhya Pradesh,Raisen,2025-09-01,2851,Spike,Strong Growth
+Odisha,Rayagada,2025-09-01,1657,Spike,Strong Decline
+Gujarat,Sabarkantha,2025-09-01,1847,Spike,Strong Growth
+Tamil Nadu,Salem,2025-09-01,3331,Spike,Strong Growth
+Odisha,Sonapur,2025-09-01,736,Spike,Strong Decline
+Bihar,Samastipur,2025-09-01,5505,Spike,Strong Growth
+Nagaland,Shamator,2025-09-01,156,Spike,Strong Decline
+Bihar,Sheikhpura,2025-09-01,1227,Spike,Strong Decline
+Madhya Pradesh,Shivpuri,2025-09-01,4117,Spike,Strong Growth
+Uttar Pradesh,Shrawasti,2025-09-01,1626,Spike,Moderate Decline
+Arunachal Pradesh,Siang,2025-09-01,74,Spike,Strong Decline
+Uttar Pradesh,Siddharthnagar,2025-09-01,3726,Spike,Strong Growth
+Madhya Pradesh,Sidhi,2025-09-01,1954,Spike,Strong Decline
+Rajasthan,Sikar,2025-09-01,4814,Spike,Strong Growth
+Jharkhand,Simdega,2025-09-01,910,Spike,Strong Decline
+Punjab,Sangrur,2025-09-01,924,Spike,Strong Decline
+Andhra Pradesh,Mahabub Nagar,2025-09-01,672,Spike,Strong Decline
+Odisha,jajpur,2025-09-01,9,Spike,Moderate Decline
+Maharashtra,Latur,2025-09-01,2444,Spike,Strong Growth
+Odisha,Angul,2025-09-01,1389,Spike,Strong Decline
+Karnataka,Chikkaballapur,2025-09-01,1002,Spike,Strong Decline
+Uttar Pradesh,Chitrakoot,2025-09-01,1726,Spike,Strong Decline
+Maharashtra,Amravati,2025-09-01,2291,Spike,Strong Growth
+Dadra And Nagar Haveli,Dadra and Nagar Haveli,2025-09-01,359,Spike,Strong Decline
+West Bengal,Dakshin Dinajpur,2025-09-01,2836,Spike,Strong Decline
+Bihar,Darbhanga,2025-09-01,5256,Spike,Strong Growth
+West Bengal,Darjiling,2025-09-01,334,Spike,Strong Decline
+Madhya Pradesh,Datia,2025-09-01,2116,Spike,Strong Growth
+Uttar Pradesh,Deoria,2025-09-01,3603,Spike,Strong Growth
+Manipur,Chandel,2025-09-01,355,Spike,Strong Decline
+Uttar Pradesh,Amethi,2025-09-01,2912,Spike,Strong Decline
+Odisha,Dhenkanal,2025-09-01,1282,Spike,Strong Decline
+Rajasthan,Dholpur,2025-09-01,2891,Spike,Strong Decline
+Assam,Dhubri,2025-09-01,3829,Spike,Strong Growth
+Maharashtra,Dhule,2025-09-01,4206,Spike,Strong Growth
+Rajasthan,Dungarpur,2025-09-01,2772,Spike,Strong Growth
+Bihar,East Champaran,2025-09-01,7262,Spike,Strong Decline
+Madhya Pradesh,East Nimar,2025-09-01,1261,Spike,Strong Decline
+Sikkim,East Sikkim,2025-09-01,151,Spike,Strong Decline
+Uttar Pradesh,Ambedkar Nagar,2025-09-01,3178,Spike,Strong Growth
+Uttar Pradesh,Etawah,2025-09-01,2163,Spike,Strong Growth
+Arunachal Pradesh,Lower Dibang Valley,2025-09-01,43,Spike,Strong Decline
+Odisha,Anugul,2025-09-01,75,Spike,Moderate Decline
+Bihar,Arwal,2025-09-01,1081,Spike,Strong Growth
+Uttarakhand,Champawat,2025-09-01,317,Spike,Strong Decline
+Odisha,Baleshwar,2025-09-01,359,Spike,Strong Decline
+Uttar Pradesh,Banda,2025-09-01,2461,Spike,Strong Growth
+Uttar Pradesh,Bara Banki,2025-09-01,3611,Spike,Strong Growth
+Rajasthan,Barmer,2025-09-01,6667,Spike,Strong Decline
+Bihar,Begusarai,2025-09-01,3863,Spike,Strong Growth
+Karnataka,Bellary,2025-09-01,1692,Spike,Strong Decline
+Uttar Pradesh,Bhadohi,2025-09-01,209,Spike,Strong Decline
+Uttar Pradesh,Baghpat,2025-09-01,2314,Spike,Strong Growth
+Telangana,Bhadradri Kothagudem,2025-09-01,878,Spike,Strong Decline
+Rajasthan,Bharatpur,2025-09-01,6538,Spike,Strong Growth
+Rajasthan,Bhilwara,2025-09-01,4234,Spike,Strong Growth
+Maharashtra,Bid,2025-09-01,199,Spike,Strong Decline
+Karnataka,Bijapur,2025-09-01,1816,Spike,Strong Growth
+Rajasthan,Bikaner,2025-09-01,4083,Spike,Strong Growth
+Assam,Bongaigaon,2025-09-01,901,Spike,Strong Growth
+Maharashtra,Aurangabad,2025-09-01,4978,Spike,Strong Growth
+Odisha,Boudh,2025-09-01,648,Spike,Strong Decline
+Jammu And Kashmir,Budgam,2025-09-01,234,Spike,Strong Decline
+Maharashtra,Buldana,2025-09-01,456,Spike,Strong Decline
+Madhya Pradesh,Ashok Nagar,2025-09-01,2148,Spike,Strong Growth
+Maharashtra,Buldhana,2025-09-01,2233,Spike,Strong Growth
+Bihar,Buxar,2025-09-01,2484,Spike,Strong Decline
+Uttarakhand,Chamoli,2025-09-01,373,Spike,Strong Decline
+Assam,Bajali,2025-09-01,12,Spike,Moderate Decline
+Punjab,Firozpur,2025-09-01,210,Spike,Strong Decline
+Punjab,Fazilka,2025-09-01,882,Spike,Strong Decline
+Haryana,Jind,2025-09-01,1274,Spike,Strong Decline
+Rajasthan,Jhalawar,2025-09-01,3038,Spike,Strong Growth
+West Bengal,Jhargram,2025-09-01,349,Spike,Strong Growth
+Rajasthan,Jhunjhunu,2025-09-01,140,Spike,Strong Decline
+Odisha,Gajapati,2025-09-01,970,Spike,Strong Decline
+Rajasthan,Jodhpur,2025-09-01,6441,Spike,Strong Growth
+Bihar,Kaimur (Bhabua),2025-09-01,2125,Spike,Strong Growth
+Odisha,Kandhamal,2025-09-01,1572,Spike,Strong Decline
+Uttar Pradesh,Kannauj,2025-09-01,2266,Spike,Strong Decline
+Rajasthan,Jalor,2025-09-01,4992,Spike,Strong Decline
+Uttar Pradesh,Kanpur Nagar,2025-09-01,5794,Spike,Strong Growth
+Odisha,Kendujhar,2025-09-01,2341,Spike,Strong Decline
+Bihar,Khagaria,2025-09-01,3007,Spike,Strong Decline
+Orissa,Khordha,2025-09-01,298,Spike,Moderate Decline
+Telangana,Adilabad,2025-09-01,1211,Spike,Strong Decline
+Telangana,Komaram Bheem,2025-09-01,471,Spike,Strong Decline
+Odisha,Koraput,2025-09-01,2286,Spike,Strong Decline
+Chhattisgarh,Koriya,2025-09-01,579,Spike,Strong Decline
+Assam,Lakhimpur,2025-09-01,1773,Spike,Strong Growth
+Haryana,Karnal,2025-09-01,1352,Spike,Strong Decline
+Maharashtra,Jalna,2025-09-01,2233,Spike,Strong Decline
+Uttar Pradesh,Bahraich,2025-09-01,7372,Spike,Strong Growth
+Uttar Pradesh,Hamirpur,2025-09-01,1371,Spike,Strong Decline
+Assam,Hailakandi,2025-09-01,1764,Spike,Strong Decline
+Madhya Pradesh,Harda,2025-09-01,749,Spike,Strong Decline
+Rajasthan,Alwar,2025-09-01,7587,Spike,Strong Growth
+Uttar Pradesh,Aligarh,2025-09-01,4355,Spike,Strong Growth
+West Bengal,Hooghly,2025-09-01,5586,Spike,Strong Decline
+Rajasthan,Hanumangarh,2025-09-01,1759,Spike,Strong Decline
+Madhya Pradesh,Guna,2025-09-01,3535,Spike,Strong Growth
+Jharkhand,Gumla,2025-09-01,2210,Spike,Strong Growth
+Madhya Pradesh,Hoshangabad,2025-09-01,2483,Spike,Strong Growth
+West Bengal,Hugli,2025-09-01,74,Spike,Strong Decline
+Uttar Pradesh,Gonda,2025-09-01,4689,Spike,Strong Growth
+Rajasthan,Jaipur,2025-09-01,9131,Spike,Strong Growth
+Rajasthan,Jaisalmer,2025-09-01,1259,Spike,Strong Decline
+Rajasthan,Ajmer,2025-09-01,4122,Spike,Strong Growth
+Maharashtra,Jalgaon,2025-09-01,4758,Spike,Strong Growth
+Chhattisgarh,Kondagaon,2025-10-01,563,Drop,Strong Decline
+Tripura,Gomati,2025-10-01,83,Drop,Moderate Growth
+West Bengal,hooghly,2025-10-01,1,Drop,Moderate Growth
+West Bengal,Hooghly,2025-10-01,3186,Spike,Strong Decline
+Mizoram,Khawzawl,2025-10-01,21,Spike,Moderate Decline
+Haryana,Mewat,2025-11-01,1779,Spike,Strong Growth
+Jammu & Kashmir,Badgam,2025-11-01,1,Drop,Strong Decline
+West Bengal,HOOGHLY,2025-11-01,4,Spike,Moderate Growth
+West Bengal,Hooghly,2025-11-01,3569,Spike,Strong Decline
+Himachal Pradesh,Chamba,2025-11-01,556,Spike,Strong Decline
+Himachal Pradesh,Kullu,2025-11-01,428,Spike,Strong Growth
+Madhya Pradesh,Niwari,2025-11-01,52,Spike,Moderate Growth
+Mizoram,Aizawl,2025-12-01,67,Drop,Strong Decline
+Odisha,ANUGUL,2025-12-01,4,Spike,Moderate Growth
+Haryana,Yamunanagar,2025-12-01,11,Drop,Moderate Decline
+Himachal Pradesh,Una,2025-12-01,211,Drop,Strong Decline
+Nagaland,Zunheboto,2025-12-01,14,Drop,Strong Decline
+Maharashtra,Dharashiv,2025-12-01,25,Drop,Moderate Decline
+Manipur,Tamenglong,2025-12-01,138,Drop,Strong Decline
+Uttar Pradesh,Mahrajganj,2025-12-01,1,Drop,Moderate Decline
+Mizoram,Mamit,2025-12-01,19,Drop,Strong Decline
+Nagaland,Kiphire,2025-12-01,21,Drop,Strong Decline
+Andhra Pradesh,Karim Nagar,2025-12-01,10,Drop,Moderate Decline
+Sikkim,North Sikkim,2025-12-01,2,Drop,Strong Decline
+West Bengal,Hooghly,2025-12-01,2357,Spike,Strong Decline
+Uttarakhand,Hardwar,2025-12-01,15,Drop,Strong Decline
+Nagaland,Phek,2025-12-01,9,Drop,Strong Decline
+Meghalaya,Eastern West Khasi Hills,2025-12-01,601,Spike,Strong Growth
+Telangana,Sangareddy,2025-12-01,354,Drop,Strong Decline
+Himachal Pradesh,Shimla,2025-12-01,256,Drop,Strong Decline
+Maharashtra,Chhatrapati Sambhajinagar,2025-12-01,146,Drop,Strong Decline
+Telangana,Siddipet,2025-12-01,226,Drop,Strong Decline
+Mizoram,Champhai,2025-12-01,29,Drop,Strong Decline
+West Bengal,South 24 Parganas,2025-12-01,4639,Drop,Strong Decline
+Assam,South Salmara Mankachar,2025-12-01,122,Drop,Strong Decline
+Telangana,Bhadradri Kothagudem,2025-12-01,313,Drop,Strong Decline
+Nagaland,Tseminyu,2025-12-01,2,Drop,Moderate Decline
+100000,100000,2025-12-01,190,Spike,Strong Growth

@@ -1,0 +1,908 @@
+state,district,slope,r_squared,trend
+100000,100000,54.4,0.594,Strong Growth
+Odisha,ANUGUL,0.3,0.6,Moderate Growth
+Andhra Pradesh,Adilabad,-76.56,0.306,Strong Decline
+Madhya Pradesh,Agar Malwa,85.4,0.183,Strong Growth
+Uttar Pradesh,Agra,338.95,0.359,Strong Growth
+Gujarat,Ahmadabad,-517.914,0.323,Strong Decline
+Maharashtra,Ahmadnagar,712.9,0.473,Strong Growth
+Maharashtra,Ahmed Nagar,14.9,0.359,Strong Growth
+Gujarat,Ahmedabad,631.536,0.377,Strong Growth
+Mizoram,Aizawl,-89.9,0.809,Strong Decline
+Rajasthan,Ajmer,114.943,0.034,Strong Growth
+Maharashtra,Akola,-25.9,0.013,Strong Decline
+Kerala,Alappuzha,-91.3,0.429,Strong Decline
+Uttar Pradesh,Aligarh,170.117,0.079,Strong Growth
+West Bengal,Alipurduar,-16.369,0.006,Strong Decline
+Madhya Pradesh,Alirajpur,102.071,0.289,Strong Growth
+Uttar Pradesh,Allahabad,-1005.2,0.701,Strong Decline
+Andhra Pradesh,Alluri Sitharama Raju,-37.8,0.602,Strong Decline
+Uttarakhand,Almora,-29.8,0.29,Strong Decline
+Rajasthan,Alwar,465.94,0.259,Strong Growth
+Haryana,Ambala,69.1,0.208,Strong Growth
+Uttar Pradesh,Ambedkar Nagar,10.9,0.0,Strong Growth
+Uttar Pradesh,Amethi,-511.2,0.717,Strong Decline
+Maharashtra,Amravati,128.571,0.135,Strong Growth
+Gujarat,Amreli,65.686,0.127,Strong Growth
+Punjab,Amritsar,89.405,0.111,Strong Growth
+Uttar Pradesh,Amroha,217.829,0.377,Strong Growth
+Andhra Pradesh,Anakapalli,1.4,0.002,Moderate Growth
+Gujarat,Anand,172.607,0.462,Strong Growth
+Andhra Pradesh,Anantapur,-195.9,0.57,Strong Decline
+Andhra Pradesh,Ananthapur,-30.7,0.356,Strong Decline
+Andhra Pradesh,Ananthapuramu,-91.4,0.527,Strong Decline
+Jammu & Kashmir,Anantnag,18.371,0.006,Strong Growth
+Andaman & Nicobar Islands,Andamans,-2.3,0.193,Moderate Decline
+Odisha,Angul,-229.0,0.446,Strong Decline
+Arunachal Pradesh,Anjaw,-4.8,0.533,Moderate Decline
+Andhra Pradesh,Annamayya,-11.3,0.064,Strong Decline
+Odisha,Anugul,-4.476,0.253,Moderate Decline
+Madhya Pradesh,Anuppur,114.1,0.386,Strong Growth
+Bihar,Araria,303.286,0.153,Strong Growth
+Tamil Nadu,Ariyalur,-91.0,0.395,Strong Decline
+Gujarat,Arvalli,-7.857,0.006,Strong Decline
+Bihar,Arwal,54.714,0.127,Strong Growth
+Madhya Pradesh,Ashok Nagar,57.943,0.025,Strong Growth
+Uttar Pradesh,Auraiya,-222.8,0.463,Strong Decline
+Maharashtra,Aurangabad,61.491,0.024,Strong Growth
+Bihar,Aurangabad(BH),2.0,0.923,Moderate Growth
+Bihar,Aurangabad(bh),-5.3,0.497,Strong Decline
+Uttar Pradesh,Ayodhya,-27.714,0.071,Strong Decline
+Uttar Pradesh,Azamgarh,422.071,0.217,Strong Growth
+Jammu And Kashmir,Badgam,-10.7,0.006,Strong Decline
+Karnataka,Bagalkot,-169.6,0.196,Strong Decline
+Uttarakhand,Bageshwar,-31.3,0.399,Strong Decline
+Uttar Pradesh,Baghpat,131.071,0.163,Strong Growth
+Uttar Pradesh,Bahraich,151.867,0.02,Strong Growth
+Assam,Bajali,-2.0,0.488,Moderate Decline
+Assam,Baksa,19.0,0.022,Strong Growth
+Madhya Pradesh,Balaghat,168.8,0.149,Strong Growth
+Odisha,Balangir,-151.417,0.255,Strong Decline
+Odisha,Baleshwar,-30.643,0.613,Strong Decline
+Odisha,Baleswar,-377.743,0.522,Strong Decline
+Karnataka,Ballari,-122.0,0.412,Strong Decline
+Uttar Pradesh,Ballia,-519.4,0.616,Strong Decline
+Chhattisgarh,Balod,-46.4,0.34,Strong Decline
+Chhattisgarh,Baloda Bazar,22.0,0.01,Strong Growth
+Uttar Pradesh,Balrampur,-6.066,0.001,Strong Decline
+Gujarat,Banas Kantha,-643.607,0.164,Strong Decline
+Gujarat,Banaskantha,-294.314,0.172,Strong Decline
+Uttar Pradesh,Banda,101.867,0.179,Strong Growth
+Jammu And Kashmir,Bandipore,-40.1,0.805,Strong Decline
+Karnataka,Bangalore,-125.6,0.305,Strong Decline
+Karnataka,Bangalore Rural,71.2,0.437,Strong Growth
+Bihar,Banka,295.057,0.38,Strong Growth
+West Bengal,Bankura,-490.0,0.361,Strong Decline
+Rajasthan,Banswara,-532.1,0.438,Strong Decline
+Andhra Pradesh,Bapatla,2.2,0.008,Moderate Growth
+Uttar Pradesh,Bara Banki,101.8,0.017,Strong Growth
+Uttar Pradesh,Barabanki,-354.5,0.578,Strong Decline
+Jammu And Kashmir,Baramula,57.1,0.119,Strong Growth
+Rajasthan,Baran,118.171,0.101,Strong Growth
+West Bengal,Barddhaman,-1052.3,0.659,Strong Decline
+West Bengal,Bardhaman,-125.5,0.676,Strong Decline
+Uttar Pradesh,Bareilly,66.083,0.019,Strong Growth
+Odisha,Bargarh,-160.857,0.253,Strong Decline
+Rajasthan,Barmer,-42.1,0.001,Strong Decline
+Punjab,Barnala,-52.7,0.678,Strong Decline
+Assam,Barpeta,226.5,0.162,Strong Growth
+Madhya Pradesh,Barwani,-87.512,0.011,Strong Decline
+Chhattisgarh,Bastar,338.7,0.509,Strong Growth
+Uttar Pradesh,Basti,209.6,0.089,Strong Growth
+Punjab,Bathinda,-186.5,0.654,Strong Decline
+Odisha,Baudh,-8.5,0.475,Strong Decline
+Maharashtra,Beed,113.369,0.144,Strong Growth
+Bihar,Begusarai,316.0,0.195,Strong Growth
+Karnataka,Belagavi,-294.4,0.461,Strong Decline
+Karnataka,Belgaum,-317.9,0.55,Strong Decline
+Karnataka,Bellary,-232.8,0.462,Strong Decline
+Chhattisgarh,Bemetara,-16.3,0.017,Strong Decline
+Karnataka,Bengaluru,-649.0,0.619,Strong Decline
+Karnataka,Bengaluru Rural,-505.2,0.615,Strong Decline
+Karnataka,Bengaluru South,24.8,0.552,Strong Growth
+Karnataka,Bengaluru Urban,5743.5,0.881,Strong Growth
+Madhya Pradesh,Betul,237.543,0.359,Strong Growth
+Bihar,Bhabua,-1.1,0.691,Moderate Decline
+Uttar Pradesh,Bhadohi,-36.7,0.82,Strong Decline
+Telangana,Bhadradri Kothagudem,-92.8,0.514,Strong Decline
+Odisha,Bhadrak,-163.476,0.342,Strong Decline
+Bihar,Bhagalpur,235.217,0.21,Strong Growth
+Maharashtra,Bhandara,-16.4,0.018,Strong Decline
+Rajasthan,Bharatpur,272.2,0.058,Strong Growth
+Gujarat,Bharuch,118.114,0.286,Strong Growth
+Gujarat,Bhavnagar,151.357,0.12,Strong Growth
+Rajasthan,Bhilwara,182.657,0.065,Strong Growth
+Madhya Pradesh,Bhind,158.85,0.139,Strong Growth
+Haryana,Bhiwani,-79.8,0.513,Strong Decline
+Bihar,Bhojpur,327.0,0.246,Strong Growth
+Madhya Pradesh,Bhopal,352.357,0.444,Strong Growth
+Maharashtra,Bid,-32.5,0.882,Strong Decline
+Karnataka,Bidar,102.3,0.093,Strong Growth
+Chhattisgarh,Bijapur,29.555,0.078,Strong Growth
+Uttar Pradesh,Bijnor,88.3,0.014,Strong Growth
+Rajasthan,Bikaner,184.857,0.176,Strong Growth
+Chhattisgarh,Bilaspur,-152.367,0.227,Strong Decline
+West Bengal,Birbhum,572.893,0.488,Strong Growth
+Manipur,Bishnupur,-19.7,0.162,Strong Decline
+Assam,Biswanath,-17.4,0.164,Strong Decline
+Jharkhand,Bokaro,-186.8,0.301,Strong Decline
+Assam,Bongaigaon,43.967,0.229,Strong Growth
+Gujarat,Botad,-49.071,0.11,Strong Decline
+Odisha,Boudh,-141.8,0.794,Strong Decline
+Uttar Pradesh,Budaun,247.476,0.185,Strong Growth
+Jammu And Kashmir,Budgam,-11.8,0.449,Strong Decline
+Uttar Pradesh,Bulandshahar,-12.1,0.502,Strong Decline
+Uttar Pradesh,Bulandshahr,459.643,0.455,Strong Growth
+Maharashtra,Buldana,-81.4,0.679,Strong Decline
+Maharashtra,Buldhana,13.629,0.002,Strong Growth
+Rajasthan,Bundi,92.457,0.112,Strong Growth
+Madhya Pradesh,Burhanpur,-79.44,0.059,Strong Decline
+Bihar,Buxar,-367.6,0.825,Strong Decline
+Assam,Cachar,-219.893,0.08,Strong Decline
+Delhi,Central Delhi,38.595,0.082,Strong Growth
+Karnataka,Chamarajanagar,-15.4,0.664,Strong Decline
+Himachal Pradesh,Chamba,-11.0,0.016,Strong Decline
+Uttarakhand,Chamoli,-42.5,0.523,Strong Decline
+Uttarakhand,Champawat,-57.6,0.878,Strong Decline
+Mizoram,Champhai,-38.607,0.653,Strong Decline
+Karnataka,Chamrajanagar,-83.4,0.453,Strong Decline
+Karnataka,Chamrajnagar,-5.0,0.166,Moderate Decline
+Uttar Pradesh,Chandauli,152.262,0.189,Strong Growth
+Manipur,Chandel,-78.3,0.723,Strong Decline
+Chandigarh,Chandigarh,61.4,0.127,Strong Growth
+Maharashtra,Chandrapur,113.107,0.365,Strong Growth
+Arunachal Pradesh,Changlang,-118.4,0.878,Strong Decline
+Assam,Charaideo,-12.8,0.059,Strong Decline
+Haryana,Charkhi Dadri,-23.2,0.172,Strong Decline
+Jharkhand,Chatra,154.086,0.258,Strong Growth
+Maharashtra,Chatrapati Sambhaji Nagar,-4.9,0.216,Moderate Decline
+Tamil Nadu,Chengalpattu,-11.7,0.062,Strong Decline
+Tamil Nadu,Chennai,212.0,0.092,Strong Growth
+Madhya Pradesh,Chhatarpur,353.452,0.37,Strong Growth
+Maharashtra,Chhatrapati Sambhajinagar,-53.8,0.89,Strong Decline
+Madhya Pradesh,Chhindwara,-185.0,0.249,Strong Decline
+Gujarat,Chhotaudepur,-14.762,0.004,Strong Decline
+Karnataka,Chickmagalur,-14.3,0.132,Strong Decline
+Karnataka,Chikkaballapur,-82.5,0.432,Strong Decline
+Karnataka,Chikkamagaluru,-20.8,0.177,Strong Decline
+Karnataka,Chikmagalur,0.4,0.009,Moderate Growth
+Assam,Chirang,-30.429,0.026,Strong Decline
+Karnataka,Chitradurga,76.0,0.162,Strong Growth
+Uttar Pradesh,Chitrakoot,-144.8,0.46,Strong Decline
+Rajasthan,Chittaurgarh,-33.1,0.501,Strong Decline
+Andhra Pradesh,Chittoor,-267.6,0.451,Strong Decline
+Rajasthan,Chittorgarh,-271.4,0.446,Strong Decline
+Nagaland,Chumukedima,-15.9,0.708,Strong Decline
+Manipur,Churachandpur,-98.75,0.222,Strong Decline
+Rajasthan,Churu,232.786,0.178,Strong Growth
+Tamil Nadu,Coimbatore,187.4,0.068,Strong Growth
+West Bengal,Cooch Behar,50.0,0.009,Strong Growth
+West Bengal,Coochbehar,2102.5,0.76,Strong Growth
+Tamil Nadu,Cuddalore,172.1,0.057,Strong Growth
+Andhra Pradesh,Cuddapah,-115.2,0.257,Strong Decline
+Odisha,Cuttack,-141.024,0.226,Strong Decline
+Dadra & Nagar Haveli,Dadra & Nagar Haveli,-2.3,0.543,Moderate Decline
+Dadra And Nagar Haveli,Dadra and Nagar Haveli,-25.726,0.29,Strong Decline
+Gujarat,Dahod,-245.686,0.376,Strong Decline
+Chhattisgarh,Dakshin Bastar Dantewada,106.4,0.404,Strong Growth
+West Bengal,Dakshin Dinajpur,-46.5,0.006,Strong Decline
+Karnataka,Dakshina Kannada,-83.9,0.274,Strong Decline
+Dadra And Nagar Haveli And Daman And Diu,Daman,-0.224,0.01,Moderate Decline
+Madhya Pradesh,Damoh,-274.2,0.409,Strong Decline
+Chhattisgarh,Dantewada,60.2,0.21,Strong Growth
+Bihar,Darbhanga,264.3,0.057,Strong Growth
+West Bengal,Darjeeling,31.274,0.047,Strong Growth
+West Bengal,Darjiling,-75.8,0.784,Strong Decline
+Assam,Darrang,94.417,0.141,Strong Growth
+Madhya Pradesh,Datia,62.486,0.033,Strong Growth
+Rajasthan,Dausa,-388.1,0.486,Strong Decline
+Karnataka,Davanagere,-16.7,0.31,Strong Decline
+Karnataka,Davangere,53.6,0.032,Strong Growth
+Odisha,Debagarh,-17.833,0.114,Strong Decline
+Rajasthan,Deeg,11.3,0.839,Strong Growth
+Uttarakhand,Dehradun,149.083,0.361,Strong Growth
+Jharkhand,Deoghar,320.914,0.522,Strong Growth
+Uttar Pradesh,Deoria,175.0,0.085,Strong Growth
+Gujarat,Devbhumi Dwarka,-7.643,0.01,Strong Decline
+Madhya Pradesh,Dewas,301.179,0.491,Strong Growth
+Tripura,Dhalai,3.2,0.002,Moderate Growth
+Chhattisgarh,Dhamtari,-66.8,0.329,Strong Decline
+Jharkhand,Dhanbad,-128.0,0.05,Strong Decline
+Madhya Pradesh,Dhar,266.571,0.419,Strong Growth
+Maharashtra,Dharashiv,-4.9,0.72,Moderate Decline
+Tamil Nadu,Dharmapuri,-172.8,0.322,Strong Decline
+Karnataka,Dharwad,-186.6,0.518,Strong Decline
+Rajasthan,Dhaulpur,-10.9,0.48,Strong Decline
+Assam,Dhemaji,60.533,0.054,Strong Growth
+Odisha,Dhenkanal,-77.655,0.182,Strong Decline
+Rajasthan,Dholpur,-52.4,0.015,Strong Decline
+Assam,Dhubri,146.167,0.114,Strong Growth
+Maharashtra,Dhule,63.857,0.011,Strong Growth
+Arunachal Pradesh,Dibang Valley,-1.2,0.8,Moderate Decline
+Assam,Dibrugarh,50.067,0.038,Strong Growth
+Assam,Dima Hasao,-22.114,0.505,Strong Decline
+Nagaland,Dimapur,-81.214,0.577,Strong Decline
+West Bengal,Dinajpur Uttar,4431.5,0.946,Strong Growth
+Tamil Nadu,Dindigul,-363.5,0.498,Strong Decline
+Madhya Pradesh,Dindori,-21.6,0.017,Strong Decline
+Dadra And Nagar Haveli And Daman And Diu,Diu,0.109,0.004,Moderate Growth
+Jammu And Kashmir,Doda,76.2,0.076,Strong Growth
+Gujarat,Dohad,-457.464,0.115,Strong Decline
+Andhra Pradesh,Dr. B. R. Ambedkar Konaseema,-14.9,0.144,Strong Decline
+Jharkhand,Dumka,204.607,0.413,Strong Growth
+Rajasthan,Dungarpur,53.2,0.008,Strong Growth
+Chhattisgarh,Durg,50.714,0.109,Strong Growth
+Sikkim,East,-42.2,0.706,Strong Decline
+Bihar,East Champaran,-35.857,0.003,Strong Decline
+Delhi,East Delhi,10.619,0.003,Strong Growth
+Meghalaya,East Garo Hills,-221.988,0.82,Strong Decline
+Andhra Pradesh,East Godavari,-234.8,0.328,Strong Decline
+Meghalaya,East Jaintia Hills,-175.845,0.676,Strong Decline
+Arunachal Pradesh,East Kameng,-16.3,0.819,Strong Decline
+Meghalaya,East Khasi Hills,-421.333,0.185,Strong Decline
+West Bengal,East Midnapore,-160.3,0.777,Strong Decline
+Madhya Pradesh,East Nimar,-5.9,0.001,Strong Decline
+Arunachal Pradesh,East Siang,-10.7,0.575,Strong Decline
+Sikkim,East Sikkim,-32.9,0.801,Strong Decline
+Jharkhand,East Singhbhum,361.314,0.523,Strong Growth
+Meghalaya,Eastern West Khasi Hills,146.8,0.51,Strong Growth
+Andhra Pradesh,Eluru,-8.2,0.054,Strong Decline
+Kerala,Ernakulam,249.886,0.421,Strong Growth
+Tamil Nadu,Erode,-354.2,0.616,Strong Decline
+Uttar Pradesh,Etah,-137.393,0.088,Strong Decline
+Uttar Pradesh,Etawah,41.6,0.02,Strong Growth
+Uttar Pradesh,Faizabad,-517.4,0.672,Strong Decline
+Haryana,Faridabad,67.233,0.039,Strong Growth
+Punjab,Faridkot,-58.1,0.431,Strong Decline
+Uttar Pradesh,Farrukhabad,158.2,0.145,Strong Growth
+Haryana,Fatehabad,-22.2,0.098,Strong Decline
+Punjab,Fatehgarh Sahib,-66.2,0.628,Strong Decline
+Uttar Pradesh,Fatehpur,216.536,0.26,Strong Growth
+Punjab,Fazilka,-171.9,0.641,Strong Decline
+Punjab,Ferozepur,-121.3,0.699,Strong Decline
+Uttar Pradesh,Firozabad,-18.857,0.002,Strong Decline
+Punjab,Firozpur,-45.1,0.589,Strong Decline
+Karnataka,Gadag,-299.9,0.508,Strong Decline
+Maharashtra,Gadchiroli,-88.7,0.157,Strong Decline
+Odisha,Gajapati,-96.429,0.358,Strong Decline
+Jammu And Kashmir,Ganderbal,-24.1,0.34,Strong Decline
+Gujarat,Gandhinagar,59.952,0.175,Strong Growth
+Rajasthan,Ganganagar,-124.0,0.085,Strong Decline
+Odisha,Ganjam,-175.429,0.17,Strong Decline
+Jharkhand,Garhwa,-127.4,0.17,Strong Decline
+Uttarakhand,Garhwal,-5.6,0.862,Strong Decline
+Chhattisgarh,Gariyaband,-59.2,0.397,Strong Decline
+Chhattisgarh,Gaurela-pendra-marwahi,-9.2,0.957,Strong Decline
+Uttar Pradesh,Gautam Buddha Nagar,38.3,0.018,Strong Growth
+Bihar,Gaya,375.571,0.494,Strong Growth
+Uttar Pradesh,Ghaziabad,273.571,0.19,Strong Growth
+Uttar Pradesh,Ghazipur,-912.1,0.654,Strong Decline
+Gujarat,Gir Somnath,-139.786,0.312,Strong Decline
+Jharkhand,Giridih,110.2,0.037,Strong Growth
+Assam,Goalpara,-1.857,0.0,Moderate Decline
+Jharkhand,Godda,124.4,0.093,Strong Growth
+Assam,Golaghat,-160.417,0.177,Strong Decline
+Tripura,Gomati,1.4,0.004,Moderate Growth
+Uttar Pradesh,Gonda,106.0,0.022,Strong Growth
+Maharashtra,Gondia,-2.0,0.769,Moderate Decline
+Maharashtra,Gondiya,-135.1,0.415,Strong Decline
+Bihar,Gopalganj,112.536,0.115,Strong Growth
+Uttar Pradesh,Gorakhpur,398.067,0.411,Strong Growth
+Karnataka,Gulbarga,-119.1,0.418,Strong Decline
+Jharkhand,Gumla,109.657,0.104,Strong Growth
+Madhya Pradesh,Guna,103.686,0.037,Strong Growth
+Andhra Pradesh,Guntur,-54.8,0.014,Strong Decline
+Punjab,Gurdaspur,103.393,0.247,Strong Growth
+Haryana,Gurgaon,85.229,0.124,Strong Growth
+Haryana,Gurugram,857.0,0.997,Strong Growth
+Madhya Pradesh,Gwalior,244.917,0.223,Strong Growth
+West Bengal,HOOGHLY,0.3,0.067,Moderate Growth
+Assam,Hailakandi,-34.2,0.018,Strong Decline
+Himachal Pradesh,Hamirpur,-23.202,0.021,Strong Decline
+Telangana,Hanumakonda,-66.9,0.838,Strong Decline
+Rajasthan,Hanumangarh,-83.6,0.085,Strong Decline
+West Bengal,Haora,-252.1,0.806,Strong Decline
+Uttar Pradesh,Hapur,-117.686,0.367,Strong Decline
+Madhya Pradesh,Harda,-106.2,0.397,Strong Decline
+Uttar Pradesh,Hardoi,-540.343,0.174,Strong Decline
+Uttarakhand,Hardwar,-9.5,0.749,Strong Decline
+Uttarakhand,Haridwar,175.286,0.37,Strong Growth
+Karnataka,Hasan,-3.4,0.014,Moderate Decline
+Karnataka,Hassan,-48.3,0.258,Strong Decline
+Uttar Pradesh,Hathras,98.8,0.148,Strong Growth
+Karnataka,Haveri,-102.5,0.312,Strong Decline
+Jharkhand,Hazaribagh,117.0,0.108,Strong Growth
+Maharashtra,Hingoli,-29.488,0.007,Strong Decline
+Haryana,Hisar,67.2,0.069,Strong Growth
+Assam,Hojai,5.357,0.0,Strong Growth
+West Bengal,Hooghly,-23.501,0.004,Strong Decline
+Madhya Pradesh,Hoshangabad,26.1,0.003,Strong Growth
+Punjab,Hoshiarpur,61.595,0.345,Strong Growth
+West Bengal,Howrah,243.357,0.107,Strong Growth
+West Bengal,Hugli,-10.0,0.507,Strong Decline
+Telangana,Hyderabad,69.273,0.014,Strong Growth
+Kerala,Idukki,-64.8,0.602,Strong Decline
+Manipur,Imphal East,-25.9,0.435,Strong Decline
+Manipur,Imphal West,28.2,0.225,Strong Growth
+Madhya Pradesh,Indore,459.667,0.379,Strong Growth
+Odisha,JAJPUR,-124.8,0.513,Strong Decline
+Madhya Pradesh,Jabalpur,511.914,0.413,Strong Growth
+Odisha,Jagatsinghapur,-78.464,0.178,Strong Decline
+Odisha,Jagatsinghpur,-32.6,0.848,Strong Decline
+Telangana,Jagitial,-106.3,0.849,Strong Decline
+Rajasthan,Jaipur,535.107,0.171,Strong Growth
+Rajasthan,Jaisalmer,-10.9,0.002,Strong Decline
+Odisha,Jajapur,-64.595,0.208,Strong Decline
+Odisha,Jajpur,-0.7,0.891,Moderate Decline
+Punjab,Jalandhar,-265.8,0.79,Strong Decline
+Uttar Pradesh,Jalaun,100.743,0.129,Strong Growth
+Maharashtra,Jalgaon,283.321,0.182,Strong Growth
+Maharashtra,Jalna,-334.0,0.557,Strong Decline
+Rajasthan,Jalor,-186.8,0.048,Strong Decline
+Rajasthan,Jalore,-244.5,0.753,Strong Decline
+West Bengal,Jalpaiguri,238.536,0.345,Strong Growth
+Jammu And Kashmir,Jammu,39.6,0.035,Strong Growth
+Gujarat,Jamnagar,78.143,0.177,Strong Growth
+Jharkhand,Jamtara,-239.2,0.681,Strong Decline
+Bihar,Jamui,71.75,0.061,Strong Growth
+Telangana,Jangaon,-5.7,0.93,Strong Decline
+Telangana,Jangoan,-94.4,0.919,Strong Decline
+Chhattisgarh,Janjgir - Champa,-0.9,0.056,Moderate Decline
+Chhattisgarh,Janjgir Champa,-1.6,0.533,Moderate Decline
+Chhattisgarh,Janjgir-champa,-208.1,0.573,Strong Decline
+Chhattisgarh,Jashpur,-2.2,0.0,Moderate Decline
+Uttar Pradesh,Jaunpur,328.143,0.211,Strong Growth
+Telangana,Jayashankar Bhupalpally,-61.0,0.95,Strong Decline
+Bihar,Jehanabad,102.171,0.242,Strong Growth
+Madhya Pradesh,Jhabua,160.024,0.168,Strong Growth
+Haryana,Jhajjar,-106.8,0.775,Strong Decline
+Rajasthan,Jhalawar,57.5,0.007,Strong Growth
+Uttar Pradesh,Jhansi,163.8,0.081,Strong Growth
+West Bengal,Jhargram,5.3,0.006,Strong Growth
+Odisha,Jharsuguda,-32.655,0.234,Strong Decline
+Rajasthan,Jhunjhunu,-28.8,0.688,Strong Decline
+Rajasthan,Jhunjhunun,-596.7,0.647,Strong Decline
+Haryana,Jind,-182.5,0.819,Strong Decline
+Manipur,Jiribam,-10.1,0.672,Strong Decline
+Rajasthan,Jodhpur,331.25,0.199,Strong Growth
+Telangana,Jogulamba Gadwal,-135.5,0.928,Strong Decline
+Assam,Jorhat,52.143,0.085,Strong Growth
+Gujarat,Junagadh,98.6,0.054,Strong Growth
+Uttar Pradesh,Jyotiba Phule Nagar,-2.5,0.455,Moderate Decline
+Andhra Pradesh,K.V.Rangareddy,-6.5,0.9,Strong Decline
+Telangana,K.v. Rangareddy,110.4,0.017,Strong Growth
+Chhattisgarh,Kabeerdham,-24.9,0.338,Strong Decline
+Gujarat,Kachchh,188.5,0.428,Strong Growth
+Bihar,Kaimur (Bhabua),69.333,0.108,Strong Growth
+Haryana,Kaithal,-3.7,0.001,Moderate Decline
+Manipur,Kakching,-6.3,0.697,Strong Decline
+Andhra Pradesh,Kakinada,-8.6,0.054,Strong Decline
+Karnataka,Kalaburagi,30.2,0.028,Strong Growth
+Odisha,Kalahandi,-167.893,0.233,Strong Decline
+West Bengal,Kalimpong,-12.686,0.166,Strong Decline
+Tamil Nadu,Kallakurichi,-17.8,0.353,Strong Decline
+Telangana,Kamareddy,-150.3,0.861,Strong Decline
+Arunachal Pradesh,Kamle,-4.8,0.503,Moderate Decline
+Assam,Kamrup,70.721,0.034,Strong Growth
+Assam,Kamrup Metro,81.821,0.187,Strong Growth
+Tamil Nadu,Kancheepuram,269.0,0.077,Strong Growth
+Tamil Nadu,Kanchipuram,-44.9,0.116,Strong Decline
+Odisha,Kandhamal,-121.714,0.309,Strong Decline
+Himachal Pradesh,Kangra,-170.2,0.633,Strong Decline
+Chhattisgarh,Kanker,-49.4,0.308,Strong Decline
+Uttar Pradesh,Kannauj,-130.8,0.126,Strong Decline
+Tamil Nadu,Kanniyakumari,-145.1,0.71,Strong Decline
+Kerala,Kannur,221.8,0.252,Strong Growth
+Uttar Pradesh,Kanpur Dehat,-88.286,0.087,Strong Decline
+Uttar Pradesh,Kanpur Nagar,316.15,0.268,Strong Growth
+Tamil Nadu,Kanyakumari,-109.2,0.725,Strong Decline
+Punjab,Kapurthala,-18.583,0.105,Strong Decline
+Pondicherry,Karaikal,-7.524,0.174,Strong Decline
+Rajasthan,Karauli,138.029,0.087,Strong Growth
+Assam,Karbi Anglong,-318.543,0.812,Strong Decline
+Jammu & Kashmir,Kargil,7.436,0.159,Strong Growth
+Andhra Pradesh,Karim Nagar,-4.5,0.699,Moderate Decline
+Assam,Karimganj,155.845,0.101,Strong Growth
+Andhra Pradesh,Karimnagar,-58.821,0.034,Strong Decline
+Haryana,Karnal,-143.7,0.532,Strong Decline
+Tamil Nadu,Karur,-245.6,0.551,Strong Decline
+Kerala,Kasaragod,-17.7,0.023,Strong Decline
+Kerala,Kasargod,-5.2,0.362,Strong Decline
+Uttar Pradesh,Kasganj,-307.1,0.603,Strong Decline
+Jammu & Kashmir,Kathua,70.036,0.137,Strong Growth
+Bihar,Katihar,414.486,0.196,Strong Growth
+Madhya Pradesh,Katni,367.024,0.686,Strong Growth
+Uttar Pradesh,Kaushambi,132.686,0.154,Strong Growth
+Chhattisgarh,Kawardha,-72.4,0.635,Strong Decline
+Odisha,Kendrapara,-96.726,0.173,Strong Decline
+Odisha,Kendujhar,-139.19,0.165,Strong Decline
+Bihar,Khagaria,-347.7,0.405,Strong Decline
+Chhattisgarh,Khairagarh Chhuikhadan Gandai,-0.1,0.0,Moderate Decline
+Andhra Pradesh,Khammam,-73.44,0.134,Strong Decline
+Madhya Pradesh,Khandwa,68.857,0.198,Strong Growth
+Madhya Pradesh,Khargone,166.0,0.075,Strong Growth
+Mizoram,Khawzawl,-3.4,0.255,Moderate Decline
+Gujarat,Kheda,167.964,0.233,Strong Growth
+Uttar Pradesh,Kheri,344.357,0.17,Strong Growth
+Odisha,Khorda,-191.143,0.349,Strong Decline
+Odisha,Khordha,-4.133,0.028,Moderate Decline
+Tripura,Khowai,-4.2,0.033,Moderate Decline
+Jharkhand,Khunti,16.029,0.031,Strong Growth
+Himachal Pradesh,Kinnaur,-3.2,0.122,Moderate Decline
+Nagaland,Kiphire,-61.5,0.893,Strong Decline
+Bihar,Kishanganj,-578.6,0.965,Strong Decline
+Jammu And Kashmir,Kishtwar,46.4,0.731,Strong Growth
+West Bengal,Koch Bihar,-347.7,0.958,Strong Decline
+Karnataka,Kodagu,11.9,0.323,Strong Growth
+Jharkhand,Kodarma,-18.5,0.604,Strong Decline
+Jharkhand,Koderma,-160.0,0.54,Strong Decline
+Nagaland,Kohima,-103.286,0.776,Strong Decline
+Assam,Kokrajhar,12.117,0.053,Strong Growth
+Karnataka,Kolar,-89.7,0.148,Strong Decline
+Mizoram,Kolasib,-17.3,0.943,Strong Decline
+Maharashtra,Kolhapur,-274.3,0.529,Strong Decline
+West Bengal,Kolkata,278.679,0.512,Strong Growth
+Kerala,Kollam,173.6,0.225,Strong Growth
+Telangana,Komaram Bheem,-99.6,0.815,Strong Decline
+Chhattisgarh,Kondagaon,-18.3,0.032,Strong Decline
+Karnataka,Koppal,-83.1,0.103,Strong Decline
+Odisha,Koraput,-178.095,0.32,Strong Decline
+Chhattisgarh,Korba,-214.7,0.938,Strong Decline
+Chhattisgarh,Koriya,-75.2,0.794,Strong Decline
+Rajasthan,Kota,175.5,0.071,Strong Growth
+Kerala,Kottayam,-73.8,0.587,Strong Decline
+Kerala,Kozhikode,-76.7,0.061,Strong Decline
+Arunachal Pradesh,Kra Daadi,-8.0,0.958,Strong Decline
+Andhra Pradesh,Krishna,-212.4,0.327,Strong Decline
+Tamil Nadu,Krishnagiri,-140.5,0.242,Strong Decline
+Jammu And Kashmir,Kulgam,-5.4,0.084,Strong Decline
+Himachal Pradesh,Kullu,38.7,0.278,Strong Growth
+Jammu & Kashmir,Kupwara,51.929,0.085,Strong Growth
+Andhra Pradesh,Kurnool,-314.6,0.59,Strong Decline
+Haryana,Kurukshetra,61.3,0.168,Strong Growth
+Arunachal Pradesh,Kurung Kumey,-5.9,0.564,Strong Decline
+Uttar Pradesh,Kushinagar,141.7,0.029,Strong Growth
+Himachal Pradesh,Lahul & Spiti,-2.3,0.328,Moderate Decline
+Himachal Pradesh,Lahul and Spiti,-1.5,0.495,Moderate Decline
+Assam,Lakhimpur,73.683,0.206,Strong Growth
+Bihar,Lakhisarai,-56.714,0.078,Strong Decline
+Lakshadweep,Lakshadweep,-7.5,0.33,Strong Decline
+Uttar Pradesh,Lalitpur,94.5,0.068,Strong Growth
+Jharkhand,Latehar,-96.7,0.168,Strong Decline
+Maharashtra,Latur,133.964,0.169,Strong Growth
+Mizoram,Lawngtlai,-24.607,0.307,Strong Decline
+Jammu And Kashmir,Leh,-2.119,0.13,Moderate Decline
+Arunachal Pradesh,Leparada,0.0,0.0,Stable
+Jharkhand,Lohardaga,53.971,0.385,Strong Growth
+Arunachal Pradesh,Lohit,-1.5,0.048,Moderate Decline
+Arunachal Pradesh,Longding,-104.0,0.865,Strong Decline
+Nagaland,Longleng,-81.371,0.821,Strong Decline
+Arunachal Pradesh,Lower Dibang Valley,-8.7,0.84,Strong Decline
+Arunachal Pradesh,Lower Siang,-2.3,0.227,Moderate Decline
+Arunachal Pradesh,Lower Subansiri,-9.3,0.76,Strong Decline
+Uttar Pradesh,Lucknow,487.733,0.413,Strong Growth
+Punjab,Ludhiana,65.483,0.03,Strong Growth
+Mizoram,Lunglei,-19.657,0.483,Strong Decline
+West Bengal,MALDA,-0.0,0.0,Moderate Decline
+Bihar,Madhepura,-218.0,0.304,Strong Decline
+Bihar,Madhubani,520.817,0.736,Strong Growth
+Tamil Nadu,Madurai,321.829,0.169,Strong Growth
+Andhra Pradesh,Mahabub Nagar,-166.1,0.894,Strong Decline
+Telangana,Mahabubabad,-110.6,0.858,Strong Decline
+Andhra Pradesh,Mahabubnagar,-89.75,0.015,Strong Decline
+Uttar Pradesh,Maharajganj,176.1,0.13,Strong Growth
+Chhattisgarh,Mahasamund,-202.1,0.709,Strong Decline
+Andhra Pradesh,Mahbubnagar,-64.8,0.915,Strong Decline
+Haryana,Mahendragarh,-67.6,0.429,Strong Decline
+Gujarat,Mahesana,105.714,0.219,Strong Growth
+Gujarat,Mahisagar,28.286,0.094,Strong Growth
+Uttar Pradesh,Mahoba,-179.8,0.427,Strong Decline
+Uttar Pradesh,Mahrajganj,-1.0,0.263,Moderate Decline
+Madhya Pradesh,Maihar,-8.6,0.268,Strong Decline
+Uttar Pradesh,Mainpuri,110.107,0.074,Strong Growth
+Assam,Majuli,-44.9,0.79,Strong Decline
+Kerala,Malappuram,666.9,0.464,Strong Growth
+West Bengal,Malda,489.657,0.196,Strong Growth
+West Bengal,Maldah,-140.5,0.836,Strong Decline
+Punjab,Malerkotla,-46.0,0.597,Strong Decline
+Odisha,Malkangiri,-125.631,0.306,Strong Decline
+Mizoram,Mamit,-11.0,0.785,Strong Decline
+Mizoram,Mammit,-2.6,0.277,Moderate Decline
+Telangana,Mancherial,-70.1,0.9,Strong Decline
+Himachal Pradesh,Mandi,-51.4,0.397,Strong Decline
+Madhya Pradesh,Mandla,-23.3,0.016,Strong Decline
+Madhya Pradesh,Mandsaur,99.8,0.017,Strong Growth
+Karnataka,Mandya,29.7,0.132,Strong Growth
+Chhattisgarh,Manendragarh–Chirmiri–Bharatpur,-11.4,0.681,Strong Decline
+Sikkim,Mangan,0.0,0.0,Stable
+Punjab,Mansa,-75.3,0.682,Strong Decline
+Assam,Marigaon,59.917,0.051,Strong Growth
+Uttar Pradesh,Mathura,323.393,0.339,Strong Growth
+Uttar Pradesh,Mau,-607.4,0.731,Strong Decline
+Madhya Pradesh,Mauganj,-22.5,0.869,Strong Decline
+Tamil Nadu,Mayiladuthurai,-34.3,0.656,Strong Decline
+Odisha,Mayurbhanj,-313.179,0.314,Strong Decline
+Andhra Pradesh,Medak,-100.345,0.065,Strong Decline
+Telangana,Medchal-malkajgiri,92.0,0.113,Strong Growth
+Telangana,Medchal−malkajgiri,-28.4,0.796,Strong Decline
+West Bengal,Medinipur,-1.6,0.914,Moderate Decline
+Uttar Pradesh,Meerut,193.0,0.098,Strong Growth
+Nagaland,Meluri,2.0,0.923,Moderate Growth
+Haryana,Mewat,49.2,0.178,Strong Growth
+Uttar Pradesh,Mirzapur,-540.4,0.567,Strong Decline
+Punjab,Moga,-123.4,0.599,Strong Decline
+Chhattisgarh,Mohalla-Manpur-Ambagarh Chowki,0.5,0.01,Moderate Growth
+Chhattisgarh,Mohla-Manpur-Ambagarh Chouki,-12.1,0.515,Strong Decline
+Nagaland,Mokokchung,-48.7,0.92,Strong Decline
+Nagaland,Mon,-84.886,0.224,Strong Decline
+Bihar,Monghyr,-1.9,0.155,Moderate Decline
+Uttar Pradesh,Moradabad,33.595,0.008,Strong Growth
+Gujarat,Morbi,-17.6,0.003,Strong Decline
+Madhya Pradesh,Morena,181.095,0.077,Strong Growth
+Punjab,Muktsar,-29.1,0.567,Strong Decline
+Telangana,Mulugu,-69.4,0.953,Strong Decline
+Maharashtra,Mumbai,283.7,0.106,Strong Growth
+Maharashtra,Mumbai City,-39.0,0.056,Strong Decline
+Maharashtra,Mumbai Suburban,146.786,0.038,Strong Growth
+Maharashtra,Mumbai( Sub Urban ),-6.9,0.079,Strong Decline
+Chhattisgarh,Mungeli,-113.4,0.705,Strong Decline
+Bihar,Munger,88.071,0.227,Strong Growth
+West Bengal,Murshidabad,-2803.2,0.877,Strong Decline
+Uttar Pradesh,Muzaffarnagar,108.086,0.065,Strong Growth
+Bihar,Muzaffarpur,290.9,0.261,Strong Growth
+Karnataka,Mysore,-19.6,0.408,Strong Decline
+Karnataka,Mysuru,34.371,0.095,Strong Growth
+Andhra Pradesh,N. T. R,-20.0,0.174,Strong Decline
+Odisha,NUAPADA,-5.4,0.642,Strong Decline
+Odisha,Nabarangapur,-208.107,0.181,Strong Decline
+West Bengal,Nadia,469.369,0.455,Strong Growth
+Assam,Nagaon,251.56,0.206,Strong Growth
+Tamil Nadu,Nagapattinam,-228.5,0.508,Strong Decline
+Telangana,Nagarkurnool,-120.7,0.799,Strong Decline
+Rajasthan,Nagaur,321.5,0.139,Strong Growth
+Maharashtra,Nagpur,311.893,0.337,Strong Growth
+Uttarakhand,Nainital,74.486,0.163,Strong Growth
+Delhi,Najafgarh,-2.8,0.373,Moderate Decline
+Bihar,Nalanda,71.514,0.033,Strong Growth
+Assam,Nalbari,61.314,0.069,Strong Growth
+Andhra Pradesh,Nalgonda,-88.917,0.063,Strong Decline
+Tamil Nadu,Namakkal,-361.8,0.657,Strong Decline
+Sikkim,Namchi,-1.9,0.466,Moderate Decline
+Arunachal Pradesh,Namsai,-10.8,0.72,Strong Decline
+Maharashtra,Nanded,194.655,0.209,Strong Growth
+Maharashtra,Nandurbar,58.607,0.014,Strong Growth
+Andhra Pradesh,Nandyal,-5.4,0.029,Strong Decline
+Telangana,Narayanpet,-111.2,0.947,Strong Decline
+Chhattisgarh,Narayanpur,-21.3,0.285,Strong Decline
+Gujarat,Narmada,-58.6,0.268,Strong Decline
+Madhya Pradesh,Narmadapuram,-26.4,0.244,Strong Decline
+Madhya Pradesh,Narsimhapur,-65.0,0.334,Strong Decline
+Madhya Pradesh,Narsinghpur,-12.7,0.001,Strong Decline
+Maharashtra,Nashik,271.571,0.048,Strong Growth
+Gujarat,Navsari,57.179,0.21,Strong Growth
+Bihar,Nawada,-594.7,0.764,Strong Decline
+Punjab,Nawanshahr,-7.1,0.392,Strong Decline
+Odisha,Nayagarh,-68.19,0.238,Strong Decline
+Madhya Pradesh,Neemuch,-72.9,0.032,Strong Decline
+Andhra Pradesh,Nellore,-180.8,0.373,Strong Decline
+Delhi,New Delhi,-136.857,0.369,Strong Decline
+Andaman And Nicobar Islands,Nicobar,-12.2,0.678,Strong Decline
+Telangana,Nirmal,-111.1,0.723,Strong Decline
+Nagaland,Niuland,-5.0,0.933,Moderate Decline
+Madhya Pradesh,Niwari,3.4,0.1,Moderate Growth
+Andhra Pradesh,Nizamabad,-71.476,0.035,Strong Decline
+Nagaland,Noklak,-14.2,0.257,Strong Decline
+Sikkim,North,-3.6,0.72,Moderate Decline
+West Bengal,North 24 Parganas,978.571,0.225,Strong Growth
+Andaman And Nicobar Islands,North And Middle Andaman,0.5,0.005,Moderate Growth
+Assam,North Cachar Hills,-41.971,0.406,Strong Decline
+Delhi,North Delhi,-20.171,0.043,Strong Decline
+West Bengal,North Dinajpur,-17.8,0.721,Strong Decline
+Delhi,North East,-77.1,0.526,Strong Decline
+Delhi,North East Delhi,-364.114,0.28,Strong Decline
+Meghalaya,North Garo Hills,-154.143,0.481,Strong Decline
+Goa,North Goa,10.5,0.009,Strong Growth
+Sikkim,North Sikkim,-5.2,0.598,Strong Decline
+Tripura,North Tripura,1.3,0.0,Moderate Growth
+West Bengal,North Twenty Four Parganas,-135.9,0.832,Strong Decline
+Delhi,North West Delhi,349.017,0.578,Strong Growth
+Odisha,Nuapada,-136.571,0.425,Strong Decline
+Maharashtra,Osmanabad,12.5,0.003,Strong Growth
+Jharkhand,Pakaur,-42.9,0.654,Strong Decline
+Arunachal Pradesh,Pakke Kessang,-0.5,0.75,Moderate Decline
+Jharkhand,Pakur,-180.5,0.327,Strong Decline
+Kerala,Palakkad,17.2,0.011,Strong Growth
+Jharkhand,Palamau,-10.8,0.117,Strong Decline
+Jharkhand,Palamu,-152.9,0.049,Strong Decline
+Maharashtra,Palghar,268.56,0.466,Strong Growth
+Rajasthan,Pali,73.3,0.007,Strong Growth
+Andhra Pradesh,Palnadu,-18.0,0.165,Strong Decline
+Haryana,Palwal,-47.0,0.061,Strong Decline
+Gujarat,Panch Mahals,-262.5,0.506,Strong Decline
+Haryana,Panchkula,-2.9,0.003,Moderate Decline
+Gujarat,Panchmahals,30.543,0.013,Strong Growth
+Madhya Pradesh,Pandhurna,1.8,0.112,Moderate Growth
+Haryana,Panipat,-86.886,0.251,Strong Decline
+Madhya Pradesh,Panna,279.929,0.241,Strong Growth
+Arunachal Pradesh,Papum Pare,-35.0,0.914,Strong Decline
+Maharashtra,Parbhani,199.357,0.397,Strong Growth
+Andhra Pradesh,Parvathipuram Manyam,-23.9,0.696,Strong Decline
+West Bengal,Paschim Bardhaman,-64.2,0.502,Strong Decline
+West Bengal,Paschim Medinipur,-1309.5,0.802,Strong Decline
+Bihar,Pashchim Champaran,-818.571,0.193,Strong Decline
+Jharkhand,Pashchimi Singhbhum,-21.4,0.407,Strong Decline
+Gujarat,Patan,46.083,0.018,Strong Growth
+Kerala,Pathanamthitta,-37.6,0.505,Strong Decline
+Punjab,Pathankot,-15.2,0.052,Strong Decline
+Punjab,Patiala,-50.371,0.078,Strong Decline
+Bihar,Patna,410.483,0.338,Strong Growth
+Uttarakhand,Pauri Garhwal,-84.3,0.887,Strong Decline
+Telangana,Peddapalli,-42.8,0.84,Strong Decline
+Tamil Nadu,Perambalur,-114.4,0.55,Strong Decline
+Nagaland,Peren,-63.179,0.822,Strong Decline
+Nagaland,Phek,-94.7,0.898,Strong Decline
+Manipur,Pherzawl,-1.8,0.6,Moderate Decline
+Uttar Pradesh,Pilibhit,-35.679,0.017,Strong Decline
+Uttarakhand,Pithoragarh,-49.2,0.544,Strong Decline
+Pondicherry,Pondicherry,-53.286,0.427,Strong Decline
+Gujarat,Porbandar,-21.429,0.103,Strong Decline
+Andhra Pradesh,Prakasam,123.1,0.048,Strong Growth
+Rajasthan,Pratapgarh,-169.738,0.126,Strong Decline
+Uttar Pradesh,Prayagraj,-33.2,0.034,Strong Decline
+Puducherry,Puducherry,-47.1,0.317,Strong Decline
+Tamil Nadu,Pudukkottai,108.2,0.036,Strong Growth
+Jammu And Kashmir,Pulwama,-8.786,0.006,Strong Decline
+Jammu And Kashmir,Punch,30.143,0.044,Strong Growth
+Maharashtra,Pune,1002.714,0.591,Strong Growth
+West Bengal,Purba Bardhaman,53.6,0.051,Strong Growth
+Bihar,Purba Champaran,-7.5,0.755,Strong Decline
+West Bengal,Purba Medinipur,-1056.8,0.783,Strong Decline
+Bihar,Purbi Champaran,4000.5,0.933,Strong Growth
+Jharkhand,Purbi Singhbhum,-62.5,0.804,Strong Decline
+Odisha,Puri,-92.893,0.218,Strong Decline
+Bihar,Purnea,-15.7,0.538,Strong Decline
+Bihar,Purnia,423.964,0.324,Strong Growth
+West Bengal,Purulia,-64.5,0.764,Strong Decline
+West Bengal,Puruliya,-961.7,0.679,Strong Decline
+Uttar Pradesh,Rae Bareli,-462.5,0.745,Strong Decline
+Karnataka,Raichur,275.1,0.233,Strong Growth
+Maharashtra,Raigad,-60.229,0.124,Strong Decline
+Chhattisgarh,Raigarh,-100.783,0.359,Strong Decline
+Maharashtra,Raigarh(MH),-1.1,0.028,Moderate Decline
+Chhattisgarh,Raipur,250.629,0.296,Strong Growth
+Madhya Pradesh,Raisen,75.3,0.019,Strong Growth
+Telangana,Rajanna Sircilla,-48.4,0.982,Strong Decline
+Madhya Pradesh,Rajgarh,258.0,0.145,Strong Growth
+Gujarat,Rajkot,27.726,0.003,Strong Growth
+Chhattisgarh,Rajnandgaon,-73.6,0.098,Strong Decline
+Jammu And Kashmir,Rajouri,15.8,0.015,Strong Growth
+Rajasthan,Rajsamand,-316.5,0.518,Strong Decline
+Karnataka,Ramanagar,-206.5,0.644,Strong Decline
+Tamil Nadu,Ramanathapuram,81.1,0.086,Strong Growth
+Jammu And Kashmir,Ramban,77.2,0.969,Strong Growth
+Jharkhand,Ramgarh,-135.3,0.559,Strong Decline
+Uttar Pradesh,Rampur,36.679,0.003,Strong Growth
+Jharkhand,Ranchi,298.5,0.257,Strong Growth
+Andhra Pradesh,Rangareddi,-104.3,0.836,Strong Decline
+Telangana,Rangareddy,-10.2,0.696,Strong Decline
+Tamil Nadu,Ranipet,-3.7,0.282,Moderate Decline
+Madhya Pradesh,Ratlam,-222.4,0.078,Strong Decline
+Maharashtra,Ratnagiri,-70.0,0.466,Strong Decline
+Odisha,Rayagada,-135.214,0.36,Strong Decline
+Jammu And Kashmir,Reasi,41.8,0.299,Strong Growth
+Madhya Pradesh,Rewa,-512.2,0.775,Strong Decline
+Haryana,Rewari,-59.4,0.327,Strong Decline
+Meghalaya,Ri Bhoi,-117.083,0.131,Strong Decline
+Haryana,Rohtak,-7.1,0.005,Strong Decline
+Bihar,Rohtas,-227.9,0.303,Strong Decline
+Uttarakhand,Rudraprayag,-33.1,0.561,Strong Decline
+Chandigarh,Rupnagar,14.143,0.019,Strong Growth
+Punjab,S.A.S Nagar(Mohali),-16.2,0.556,Strong Decline
+Punjab,SAS Nagar (Mohali),-1.9,0.0,Moderate Decline
+Gujarat,Sabar Kantha,-450.4,0.506,Strong Decline
+Gujarat,Sabarkantha,53.886,0.031,Strong Growth
+Madhya Pradesh,Sagar,492.536,0.57,Strong Growth
+Uttar Pradesh,Saharanpur,286.012,0.39,Strong Growth
+Bihar,Saharsa,276.75,0.363,Strong Growth
+Jharkhand,Sahebganj,-145.5,0.09,Strong Decline
+Jharkhand,Sahibganj,-26.3,0.615,Strong Decline
+Mizoram,Saiha,-31.914,0.94,Strong Decline
+Mizoram,Saitual,-0.0,0.0,Moderate Decline
+Chhattisgarh,Sakti,-25.4,0.446,Strong Decline
+Tamil Nadu,Salem,174.9,0.072,Strong Growth
+Bihar,Samastipur,486.7,0.216,Strong Growth
+Jammu And Kashmir,Samba,-6.8,0.218,Strong Decline
+Odisha,Sambalpur,-63.131,0.18,Strong Decline
+Uttar Pradesh,Sambhal,114.6,0.037,Strong Growth
+Bihar,Samstipur,-3.2,0.168,Moderate Decline
+Telangana,Sangareddy,-160.2,0.872,Strong Decline
+Maharashtra,Sangli,115.75,0.14,Strong Growth
+Punjab,Sangrur,-9.5,0.003,Strong Decline
+Uttar Pradesh,Sant Kabir Nagar,-245.7,0.649,Strong Decline
+Uttar Pradesh,Sant Ravidas Nagar,-265.4,0.666,Strong Decline
+Uttar Pradesh,Sant Ravidas Nagar Bhadohi,-6.1,0.851,Strong Decline
+Bihar,Saran,722.75,0.527,Strong Growth
+Chhattisgarh,Sarangarh-Bilaigarh,14.7,0.887,Strong Growth
+Maharashtra,Satara,187.226,0.784,Strong Growth
+Madhya Pradesh,Satna,361.2,0.185,Strong Growth
+Rajasthan,Sawai Madhopur,-94.7,0.051,Strong Decline
+Madhya Pradesh,Sehore,-14.3,0.003,Strong Decline
+Manipur,Senapati,-111.5,0.916,Strong Decline
+Madhya Pradesh,Seoni,-217.5,0.233,Strong Decline
+Tripura,Sepahijala,2.6,0.006,Moderate Growth
+Jharkhand,Seraikela-Kharsawan,-67.4,0.241,Strong Decline
+Jharkhand,Seraikela-kharsawan,-16.6,0.118,Strong Decline
+Mizoram,Serchhip,-11.0,0.966,Strong Decline
+Delhi,Shahdara,-53.0,0.194,Strong Decline
+Madhya Pradesh,Shahdol,2.4,0.0,Moderate Growth
+Punjab,Shaheed Bhagat Singh Nagar,-50.0,0.347,Strong Decline
+Uttar Pradesh,Shahjahanpur,-97.881,0.013,Strong Decline
+Madhya Pradesh,Shajapur,-8.4,0.0,Strong Decline
+Nagaland,Shamator,-40.9,0.695,Strong Decline
+Uttar Pradesh,Shamli,186.1,0.158,Strong Growth
+Bihar,Sheikhpura,-228.4,0.838,Strong Decline
+Bihar,Sheikpura,-1.3,0.23,Moderate Decline
+Bihar,Sheohar,27.8,0.074,Strong Growth
+Madhya Pradesh,Sheopur,66.25,0.076,Strong Growth
+Arunachal Pradesh,Shi-yomi,0.1,0.0,Moderate Growth
+Himachal Pradesh,Shimla,-47.9,0.338,Strong Decline
+Karnataka,Shimoga,-26.0,0.066,Strong Decline
+Karnataka,Shivamogga,-35.3,0.136,Strong Decline
+Madhya Pradesh,Shivpuri,210.286,0.155,Strong Growth
+Uttar Pradesh,Shrawasti,-1.771,0.0,Moderate Decline
+Jammu And Kashmir,Shupiyan,11.8,0.184,Strong Growth
+Arunachal Pradesh,Siang,-21.8,0.738,Strong Decline
+Assam,Sibsagar,-27.657,0.063,Strong Decline
+Uttar Pradesh,Siddharthnagar,31.771,0.006,Strong Growth
+Telangana,Siddipet,-127.0,0.896,Strong Decline
+Madhya Pradesh,Sidhi,-207.0,0.841,Strong Decline
+Rajasthan,Sikar,312.214,0.175,Strong Growth
+Jharkhand,Simdega,-183.9,0.7,Strong Decline
+Maharashtra,Sindhudurg,-35.1,0.194,Strong Decline
+Madhya Pradesh,Singrauli,-191.3,0.719,Strong Decline
+Himachal Pradesh,Sirmaur,-62.0,0.426,Strong Decline
+Rajasthan,Sirohi,100.274,0.077,Strong Growth
+Haryana,Sirsa,-37.8,0.224,Strong Decline
+Bihar,Sitamarhi,-42.533,0.003,Strong Decline
+Uttar Pradesh,Sitapur,119.679,0.016,Strong Growth
+Tamil Nadu,Sivaganga,103.5,0.088,Strong Growth
+Bihar,Siwan,468.821,0.428,Strong Growth
+Himachal Pradesh,Solan,-33.9,0.323,Strong Decline
+Maharashtra,Solapur,367.643,0.488,Strong Growth
+Odisha,Sonapur,-57.31,0.309,Strong Decline
+Uttar Pradesh,Sonbhadra,-407.8,0.511,Strong Decline
+Haryana,Sonipat,58.1,0.064,Strong Growth
+Assam,Sonitpur,233.483,0.672,Strong Growth
+Sikkim,South,-27.2,0.71,Strong Decline
+West Bengal,South 24 Parganas,-1296.3,0.784,Strong Decline
+Andaman & Nicobar Islands,South Andaman,1.262,0.02,Moderate Growth
+Delhi,South Delhi,334.31,0.58,Strong Growth
+West Bengal,South Dinajpur,-40.0,0.831,Strong Decline
+Delhi,South East Delhi,-0.2,0.001,Moderate Decline
+Meghalaya,South Garo Hills,-147.952,0.733,Strong Decline
+Goa,South Goa,-59.8,0.51,Strong Decline
+Assam,South Salmara Mankachar,-57.4,0.496,Strong Decline
+Sikkim,South Sikkim,-25.571,0.269,Strong Decline
+Tripura,South Tripura,-51.2,0.196,Strong Decline
+Delhi,South West Delhi,148.06,0.32,Strong Growth
+Meghalaya,South West Garo Hills,-199.5,0.789,Strong Decline
+Meghalaya,South West Khasi Hills,-103.821,0.664,Strong Decline
+Andhra Pradesh,Spsr Nellore,301.5,0.24,Strong Growth
+Punjab,Sri Muktsar Sahib,-100.0,0.483,Strong Decline
+Andhra Pradesh,Sri Potti Sriramulu Nellore,-81.2,0.492,Strong Decline
+Andhra Pradesh,Sri Sathya Sai,-11.1,0.172,Strong Decline
+Assam,Sribhumi,-1.3,0.008,Moderate Decline
+Andhra Pradesh,Srikakulam,-153.4,0.455,Strong Decline
+Jammu & Kashmir,Srinagar,-17.714,0.007,Strong Decline
+Odisha,Subarnapur,-16.179,0.252,Strong Decline
+Chhattisgarh,Sukma,-3.857,0.012,Moderate Decline
+Uttar Pradesh,Sultanpur,242.857,0.298,Strong Growth
+Odisha,Sundargarh,-17.036,0.308,Strong Decline
+Odisha,Sundergarh,-156.3,0.144,Strong Decline
+Bihar,Supaul,-225.6,0.626,Strong Decline
+Chhattisgarh,Surajpur,-98.1,0.375,Strong Decline
+Gujarat,Surat,-64.679,0.01,Strong Decline
+Gujarat,Surendra Nagar,75.171,0.037,Strong Growth
+Gujarat,Surendranagar,-257.2,0.507,Strong Decline
+Chhattisgarh,Surguja,-184.8,0.495,Strong Decline
+Telangana,Suryapet,-173.1,0.947,Strong Decline
+Manipur,Tamenglong,-42.5,0.683,Strong Decline
+Assam,Tamulpur District,-1.2,0.343,Moderate Decline
+Gujarat,Tapi,-17.7,0.006,Strong Decline
+Punjab,Tarn Taran,-40.4,0.057,Strong Decline
+Arunachal Pradesh,Tawang,-15.5,0.809,Strong Decline
+Uttarakhand,Tehri Garhwal,-56.2,0.175,Strong Decline
+Tamil Nadu,Tenkasi,-52.4,0.423,Strong Decline
+Maharashtra,Thane,655.867,0.427,Strong Growth
+Tamil Nadu,Thanjavur,182.9,0.092,Strong Growth
+Gujarat,The Dangs,-11.657,0.032,Strong Decline
+Tamil Nadu,The Nilgiris,-81.8,0.57,Strong Decline
+Tamil Nadu,Theni,-196.8,0.626,Strong Decline
+Tamil Nadu,Thiruvallur,-59.1,0.538,Strong Decline
+Kerala,Thiruvananthapuram,303.914,0.495,Strong Growth
+Tamil Nadu,Thiruvarur,-148.9,0.257,Strong Decline
+Tamil Nadu,Thoothukkudi,-185.0,0.519,Strong Decline
+Manipur,Thoubal,-22.3,0.24,Strong Decline
+Kerala,Thrissur,263.9,0.22,Strong Growth
+Madhya Pradesh,Tikamgarh,-111.8,0.066,Strong Decline
+Assam,Tinsukia,40.0,0.022,Strong Growth
+Arunachal Pradesh,Tirap,-4.1,0.374,Moderate Decline
+Tamil Nadu,Tiruchirappalli,-631.8,0.581,Strong Decline
+Tamil Nadu,Tirunelveli,-465.5,0.656,Strong Decline
+Andhra Pradesh,Tirupati,-50.3,0.14,Strong Decline
+Tamil Nadu,Tirupattur,-22.1,0.262,Strong Decline
+Tamil Nadu,Tiruppur,-304.1,0.486,Strong Decline
+Tamil Nadu,Tiruvallur,-384.7,0.291,Strong Decline
+Tamil Nadu,Tiruvannamalai,-424.9,0.543,Strong Decline
+Rajasthan,Tonk,-142.4,0.142,Strong Decline
+Nagaland,Tseminyu,-2.3,0.683,Moderate Decline
+Nagaland,Tuensang,-102.686,0.895,Strong Decline
+Karnataka,Tumakuru,-22.6,0.053,Strong Decline
+Karnataka,Tumkur,-41.9,0.36,Strong Decline
+Rajasthan,Udaipur,435.114,0.177,Strong Growth
+Assam,Udalguri,11.179,0.005,Strong Growth
+Uttarakhand,Udham Singh Nagar,-317.4,0.59,Strong Decline
+Jammu & Kashmir,Udhampur,81.171,0.149,Strong Growth
+Karnataka,Udupi,-262.2,0.721,Strong Decline
+Madhya Pradesh,Ujjain,-231.3,0.069,Strong Decline
+Manipur,Ukhrul,-46.2,0.555,Strong Decline
+Madhya Pradesh,Umaria,-185.5,0.345,Strong Decline
+Himachal Pradesh,Una,-41.3,0.768,Strong Decline
+Tripura,Unakoti,11.8,0.149,Strong Growth
+Uttar Pradesh,Unnao,248.167,0.342,Strong Growth
+Arunachal Pradesh,Upper Siang,-3.7,0.967,Moderate Decline
+Arunachal Pradesh,Upper Subansiri,-10.7,0.829,Strong Decline
+Chhattisgarh,Uttar Bastar Kanker,-5.5,0.034,Strong Decline
+West Bengal,Uttar Dinajpur,124.486,0.01,Strong Growth
+Karnataka,Uttara Kannada,-60.1,0.171,Strong Decline
+Uttarakhand,Uttarkashi,23.8,0.253,Strong Growth
+Gujarat,Vadodara,281.733,0.497,Strong Growth
+Bihar,Vaishali,317.3,0.064,Strong Growth
+Gujarat,Valsad,95.25,0.164,Strong Growth
+Uttar Pradesh,Varanasi,191.012,0.053,Strong Growth
+Tamil Nadu,Vellore,164.1,0.069,Strong Growth
+Madhya Pradesh,Vidisha,149.643,0.13,Strong Growth
+Karnataka,Vijayanagara,-102.1,0.527,Strong Decline
+Karnataka,Vijayapura,-18.3,0.002,Strong Decline
+Telangana,Vikarabad,-194.5,0.87,Strong Decline
+Tamil Nadu,Villupuram,-252.1,0.165,Strong Decline
+Tamil Nadu,Viluppuram,-201.8,0.199,Strong Decline
+Tamil Nadu,Virudhunagar,-222.5,0.353,Strong Decline
+Andhra Pradesh,Visakhapatnam,-178.8,0.252,Strong Decline
+Andhra Pradesh,Vizianagaram,-140.7,0.429,Strong Decline
+Telangana,Wanaparthy,-99.7,0.773,Strong Decline
+Andhra Pradesh,Warangal,-53.536,0.155,Strong Decline
+Telangana,Warangal (urban),-1.5,0.964,Moderate Decline
+Telangana,Warangal Rural,-34.2,0.843,Strong Decline
+Telangana,Warangal Urban,-46.9,0.879,Strong Decline
+Maharashtra,Wardha,-55.2,0.136,Strong Decline
+Maharashtra,Washim,77.057,0.473,Strong Growth
+Kerala,Wayanad,-25.7,0.045,Strong Decline
+Sikkim,West,-25.1,0.888,Strong Decline
+Bihar,West Champaran,-515.743,0.632,Strong Decline
+Delhi,West Delhi,53.45,0.011,Strong Growth
+Meghalaya,West Garo Hills,-472.702,0.623,Strong Decline
+Andhra Pradesh,West Godavari,-209.0,0.351,Strong Decline
+Meghalaya,West Jaintia Hills,-215.167,0.351,Strong Decline
+Arunachal Pradesh,West Kameng,-16.6,0.922,Strong Decline
+Assam,West Karbi Anglong,-54.0,0.775,Strong Decline
+Meghalaya,West Khasi Hills,-327.1,0.319,Strong Decline
+West Bengal,West Midnapore,-169.8,0.822,Strong Decline
+Madhya Pradesh,West Nimar,-36.9,0.504,Strong Decline
+Arunachal Pradesh,West Siang,-16.8,0.836,Strong Decline
+Sikkim,West Sikkim,-28.743,0.805,Strong Decline
+Jharkhand,West Singhbhum,61.8,0.06,Strong Growth
+Tripura,West Tripura,61.9,0.196,Strong Growth
+Nagaland,Wokha,-61.9,0.886,Strong Decline
+Andhra Pradesh,Y. S. R,-17.7,0.154,Strong Decline
+Telangana,Yadadri.,-126.2,0.774,Strong Decline
+Karnataka,Yadgir,43.6,0.025,Strong Growth
+Haryana,Yamuna Nagar,-74.1,0.236,Strong Decline
+Haryana,Yamunanagar,-1.5,0.6,Moderate Decline
+Pondicherry,Yanam,-0.571,0.23,Moderate Decline
+Maharashtra,Yavatmal,88.629,0.08,Strong Growth
+Nagaland,Zunheboto,-69.0,0.785,Strong Decline
+Andhra Pradesh,chittoor,-0.0,0.0,Moderate Decline
+West Bengal,hooghly,0.2,0.067,Moderate Growth
+Odisha,jajpur,-1.7,0.47,Moderate Decline
+Karnataka,yadgir,-46.2,0.689,Strong Decline
